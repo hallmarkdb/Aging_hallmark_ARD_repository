@@ -1,7 +1,6 @@
-### Code_Thesis_HCF/Aging_Hallmark_ARD_repository
+### Aging_Hallmark_ARD_repository
 
-Analysis in Chapters 3 and 4
-- The custom code used for the analysis described in Chapters 3 and 4 of the thesis are in this folder: “Aging_hallmark_ARD_repository”. 
+- The custom code used for the analysis described in "Biological mechanisms of aging predict age-related disease co-occurrence in patients" by Fraser HC et al. (2022) are provided here. 
 - The input datasets are available from the relevant subfolders. 
 - The labelled sentences from manual curation are in the subfolder, “benchmark_sentences”. 
 - The multimorbidity networks for the "Aging_hallmark_ARD_repository/multimorbidity networks" folder are available on request from Dr. Val Kuan (v.kuan@ucl.ac.uk). 
@@ -16,7 +15,6 @@ Analysis in Chapters 3 and 4
 (vii) The BioNetSmooth package was kindly provided by Prof. Andreas Beyer and is available from http://cellnet-sb.cecad.uni-koeln.de/resources/network-propagation/ and compatible with R version 3.3.0.
 
 
-### Code_Thesis_HCF/Aging_Hallmark_ARD_repository
 The code should be run in the following order: 
 
 (i) Step1a_development_of_ARD_dictionary.R, R version 3.6.3
