@@ -5,7 +5,7 @@ import os
 
 ################################### Retrieving human aging corpus PMIDs ###################################
 
-os.chdir("Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+os.chdir("Aging_hallmark_ARD_repository-main/")
 
 # Create an api_key for your email and then assign the email and api_key to the variables below as strings. 
 #my_email = 
