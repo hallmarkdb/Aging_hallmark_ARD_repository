@@ -1,0 +1,616 @@
+DiseaseName_ARD_Paper,MESH_ID,Category,Likelihood.disease.is.ageing.related,Name_node,Phenotyping_Algorithms,MESH_Term,All_MESH,All_MESH_Terms,MAPPED_TRAIT,MAPPED_TRAIT_URI
+Abdominal Aortic Aneurysm,MESH:D017544,Cardiovascular,High,aaa,Abdominal Aortic Aneurysm,"Aortic Aneurysm, Abdominal",MESH:D017544,"Aortic Aneurysm, Abdominal",Abdominal Aortic Aneurysm,http://www.ebi.ac.uk/efo/EFO_0004214
+Abdominal Hernia,MESH:D046449,Digestive,High,hernia_abdo,Abdominal Hernia,"Hernia, Abdominal",MESH:D006554,"Hernia, Umbilical",NA,NA
+Abdominal Hernia,MESH:D046449,Digestive,High,hernia_abdo,Abdominal Hernia,"Hernia, Abdominal",MESH:D006550,"Hernia, Femoral",NA,NA
+Abdominal Hernia,MESH:D046449,Digestive,High,hernia_abdo,Abdominal Hernia,"Hernia, Abdominal",MESH:D006552,"Hernia, Inguinal",Inguinal hernia,http://purl.obolibrary.org/obo/HP_0000023
+Abdominal Hernia,MESH:D046449,Digestive,High,hernia_abdo,Abdominal Hernia,"Hernia, Abdominal",MESH:D006555,"Hernia, Ventral",NA,NA
+Abdominal Hernia,MESH:D046449,Digestive,High,hernia_abdo,Abdominal Hernia,"Hernia, Abdominal",MESH:D046449,"Hernia, Abdominal",NA,NA
+Actinic keratosis,MESH:D055623,Skin,High,act_keratosis,Actinic keratosis,"Keratosis, Actinic",MESH:D055623,"Keratosis, Actinic",NA,NA
+Acute Kidney Injury,MESH:D058186,Genitourinary,High,aki,Acute Kidney Injury,Acute Kidney Injury,MESH:D007683,"Kidney Tubular Necrosis, Acute",NA,NA
+Acute Kidney Injury,MESH:D058186,Genitourinary,High,aki,Acute Kidney Injury,Acute Kidney Injury,MESH:D058186,Acute Kidney Injury,"Acute kidney injury, illness severity status","http://purl.obolibrary.org/obo/HP_0001919, http://www.ebi.ac.uk/efo/EFO_0007863"
+Agranulocytosis,MESH:D000380,Haematological/ Immuunoligcal,High,agranulocytosis,Agranulocytosis,Agranulocytosis,MESH:D064147,Febrile Neutropenia,NA,NA
+Agranulocytosis,MESH:D000380,Haematological/ Immuunoligcal,High,agranulocytosis,Agranulocytosis,Agranulocytosis,MESH:D009503,Neutropenia,NA,NA
+Agranulocytosis,MESH:D000380,Haematological/ Immuunoligcal,High,agranulocytosis,Agranulocytosis,Agranulocytosis,MESH:D000380,Agranulocytosis,NA,NA
+"Anaemia, other",MESH:D000740,Haematological/ Immuunoligcal,High,oth_anaemia,Anaemia - other,Anemia,MESH:D012010,"Red-Cell Aplasia, Pure",NA,NA
+"Anaemia, other",MESH:D000740,Haematological/ Immuunoligcal,High,oth_anaemia,Anaemia - other,Anemia,MESH:D000740,Anemia,anemia,http://www.ebi.ac.uk/efo/EFO_0004272
+Angiodysplasia of colon,MESH:D016888,Digestive,High,angio_colon,Angiodysplasia of colon,Angiodysplasia,MESH:D016888,Angiodysplasia,NA,NA
+Anorectal Prolapse,MESH:D012005,Digestive,High,anorectal_prolapse,Anorectal Prolapse,Rectal Prolapse,MESH:D012005,Rectal Prolapse,NA,NA
+Anterior Uveitis,MESH:D014606,Eye,High,ant_uveitis,Anterior Uveitis,"Uveitis, Anterior",MESH:D014606,"Uveitis, Anterior",anterior uveitis,http://www.ebi.ac.uk/efo/EFO_1000811
+Anterior Uveitis,MESH:D014606,Eye,High,ant_uveitis,Anterior Uveitis,"Uveitis, Anterior",MESH:D015863,Iridocyclitis,NA,NA
+Anterior Uveitis,MESH:D014606,Eye,High,ant_uveitis,Anterior Uveitis,"Uveitis, Anterior",MESH:D007500,Iritis,NA,NA
+Aplastic Anaemia,MESH:D000741,Haematological/ Immuunoligcal,High,aplastic,Aplastic Anaemias,"Anemia, Aplastic",MESH:D000741,"Anemia, Aplastic",NA,NA
+Aplastic Anaemia,MESH:D000741,Haematological/ Immuunoligcal,High,aplastic,Aplastic Anaemias,"Anemia, Aplastic",MESH:D005199,Fanconi Anemia,NA,NA
+Aplastic Anaemia,MESH:D000741,Haematological/ Immuunoligcal,High,aplastic,Aplastic Anaemias,"Anemia, Aplastic",MESH:D029502,"Anemia, Hypoplastic, Congenital",NA,NA
+Aplastic Anaemia,MESH:D000741,Haematological/ Immuunoligcal,High,aplastic,Aplastic Anaemias,"Anemia, Aplastic",MESH:D029503,"Anemia, Diamond-Blackfan",NA,NA
+Asbestosis,MESH:D001195,Respiratory,High,asbestosis,Asbestosis,Asbestosis,MESH:D001195,Asbestosis,NA,NA
+Aspiration Pneumonitis,MESH:D011015,Respiratory,High,asp_pneumo,Aspiration pneumonitis,"Pneumonia, Aspiration",MESH:D011015,"Pneumonia, Aspiration",NA,NA
+Atrial Fibrillation,MESH:D001281,Cardiovascular,High,af,Atrial Fibrillation and flutter,Atrial Fibrillation,MESH:D001281,Atrial Fibrillation,atrial fibrillation,http://www.ebi.ac.uk/efo/EFO_0000275
+Atrial Fibrillation,MESH:D001282,Cardiovascular,High,af,Atrial Fibrillation and flutter,Atrial Flutter,MESH:D001282,Atrial Flutter,NA,NA
+"Atrioventricular Block, first degree",MESH:D054537,Cardiovascular,High,av_block_1,"Atrioventricular block, first degree",Atrioventricular Block,MESH:D054537,Atrioventricular Block,NA,NA
+"Atrioventricular Block, second degree",MESH:D054537,Cardiovascular,High,av_block_2,"Atrioventricular Block, second degree",Atrioventricular Block,MESH:D054537,Atrioventricular Block,NA,NA
+"Atrioventricular Block, third degree",MESH:D054537,Cardiovascular,High,av_block_3,"Atrioventricular block, third degree",Atrioventricular Block,MESH:D054537,Atrioventricular Block,NA,NA
+Autoimmune liver disease,MESH:D019693,Digestive,High,autoimm_liver,Autoimmune liver disease,"Hepatitis, Autoimmune",MESH:D019693,"Hepatitis, Autoimmune",Autoimmune Hepatitis,http://www.ebi.ac.uk/efo/EFO_0005676
+Autonomic Neuropathy,UMLS:C0259749,Neurological,High,autonomic_neuro,Autonomic Neuropathy,Autonomic Neuropathy,UMLS:C0259749,Autonomic Neuropathy,NA,NA
+Bacterial Infection,MESH:D001424,Infections,High,id_bacterial,Bacterial infections,Bacterial Infections,MESH:D001424,Bacterial Infections,NA,NA
+Bacterial Infection,MESH:D001424,Infections,High,id_bacterial,Bacterial infections,Bacterial Infections,MESH:D016470,Bacteremia,bacteriemia,http://www.ebi.ac.uk/efo/EFO_0003033
+Barrett's Oesophagus,MESH:D001471,Digestive,High,barretts,Barrett's Oesophagus ,Barrett Esophagus,MESH:D001471,Barrett Esophagus,Barrett's esophagus,http://www.ebi.ac.uk/efo/EFO_0000280
+Bell's Palsy,MESH:D020330,Neurological,High,bells,Bell's palsy,Bell Palsy,MESH:D020330,Bell Palsy,NA,NA
+"Benign Neoplasm, Brain",MESH:D001932,Benign Neoplasm,High,benign_brain,Benign neoplasm - Brain,Brain Neoplasms,MESH:D001932,Brain Neoplasms,NA,NA
+"Benign Neoplasm, Colon",MESH:D003110,Benign Neoplasm,High,benign_colon,Benign Neoplasm - Colon,Colonic Neoplasms,MESH:D012811,Sigmoid Neoplasms,NA,NA
+"Benign Neoplasm, Colon",MESH:D003110,Benign Neoplasm,High,benign_colon,Benign Neoplasm - Colon,Colonic Neoplasms,MESH:D003110,Colonic Neoplasms,colorectal adenoma,http://www.ebi.ac.uk/efo/EFO_0005406
+"Benign Neoplasm, Colon",MESH:D003110,Benign Neoplasm,High,benign_colon,Benign Neoplasm - Colon,Colonic Neoplasms,MESH:D003110,Colonic Neoplasms,colonic neoplasm,http://www.ebi.ac.uk/efo/EFO_0004288
+"Benign Neoplasm, Stomach",MESH:D013274,Benign Neoplasm,High,benign_stomach,Benign Neoplasm - Stomach,Stomach Neoplasms,MESH:D013274,Stomach Neoplasms,NA,NA
+Benign Prostatic Hyperplasia,MESH:D011470,Genitourinary,High,bph,Benign Prostatic Hyperplasia,Prostatic Hyperplasia,MESH:D011470,Prostatic Hyperplasia,"lower urinary tract symptom, benign prostatic hyperplasia","http://www.ebi.ac.uk/efo/EFO_0008008, http://www.ebi.ac.uk/efo/EFO_0000284"
+Bifascicular Block,UMLS:C0264914,Cardiovascular,High,bifasc_block,Bifascicular block,Bifascicular block,UMLS:C0264914,Bifascicular block,NA,NA
+Blindness,MESH:D001766,Eye,High,blind,Blindness,Blindness,MESH:D054062,Deaf-Blind Disorders,NA,NA
+Blindness,MESH:D001766,Eye,High,blind,Blindness,Blindness,MESH:D019575,"Blindness, Cortical",NA,NA
+Blindness,MESH:D001766,Eye,High,blind,Blindness,Blindness,MESH:D001766,Blindness,NA,NA
+Bronchiectasis,MESH:D001987,Respiratory,High,bronchiectasis,Bronchiectasis,Bronchiectasis,MESH:D001987,Bronchiectasis,NA,NA
+Bronchiectasis,MESH:D001987,Respiratory,High,bronchiectasis,Bronchiectasis,Bronchiectasis,MESH:D007619,Kartagener Syndrome,NA,NA
+"Cardiomyopathy, other",MESH:D009202,Cardiovascular,High,cardiomyo_oth,Cardiomyopathy - other,Cardiomyopathies,MESH:D002313,"Cardiomyopathy, Restrictive",NA,NA
+"Cardiomyopathy, other",MESH:D009202,Cardiovascular,High,cardiomyo_oth,Cardiomyopathy - other,Cardiomyopathies,MESH:D009202,Cardiomyopathies,NA,NA
+"Cardiomyopathy, other",MESH:D009202,Cardiovascular,High,cardiomyo_oth,Cardiomyopathy - other,Cardiomyopathies,MESH:D004719,Endomyocardial Fibrosis,NA,NA
+"Cardiomyopathy, other",MESH:D009202,Cardiovascular,High,cardiomyo_oth,Cardiomyopathy - other,Cardiomyopathies,MESH:D019571,Arrhythmogenic Right Ventricular Dysplasia,NA,NA
+Carpal Tunnel Syndrome,MESH:D002349,Musculoskeletal,High,carpal_tunnel,Carpal tunnel syndrome,Carpal Tunnel Syndrome,MESH:D002349,Carpal Tunnel Syndrome,NA,NA
+Cataract,MESH:D002386,Eye,High,cataract,Cataract,Cataract,MESH:D002386,Cataract,age-related nuclear cataract,http://purl.obolibrary.org/obo/HP_0011142
+Cataract,MESH:D002386,Eye,High,cataract,Cataract,Cataract,MESH:D002386,Cataract,age-related cataract,http://purl.obolibrary.org/obo/HP_0011141
+Cataract,MESH:D002386,Eye,High,cataract,Cataract,Cataract,MESH:D058442,Capsule Opacification,NA,NA
+Cholangitis,MESH:D002761,Digestive,High,cholangitis,Cholangitis,Cholangitis,MESH:D002761,Cholangitis,NA,NA
+Cholangitis,MESH:D002761,Digestive,High,cholangitis,Cholangitis,Cholangitis,MESH:D015209,"Cholangitis, Sclerosing",sclerosing cholangitis,http://www.ebi.ac.uk/efo/EFO_0004268
+Cholecystitis,MESH:D002764,Digestive,High,cholecystitis,Cholecystitis,Cholecystitis,MESH:D042101,Acalculous Cholecystitis,NA,NA
+Cholecystitis,MESH:D002764,Digestive,High,cholecystitis,Cholecystitis,Cholecystitis,MESH:D002764,Cholecystitis,NA,NA
+Cholelithiasis,MESH:D002769,Digestive,High,cholelithiasis,Cholelithiasis,Cholelithiasis,MESH:D042883,Choledocholithiasis,NA,NA
+Cholelithiasis,MESH:D002769,Digestive,High,cholelithiasis,Cholelithiasis,Cholelithiasis,MESH:D002769,Cholelithiasis,NA,NA
+Cholelithiasis,MESH:D002769,Digestive,High,cholelithiasis,Cholelithiasis,Cholelithiasis,MESH:D042882,Gallstones,gallstones,http://www.ebi.ac.uk/efo/EFO_0004210
+Cholelithiasis,MESH:D002769,Digestive,High,cholelithiasis,Cholelithiasis,Cholelithiasis,MESH:D041761,Cholecystolithiasis,NA,NA
+Chronic Cystitis,UMLS:C0221763,Genitourinary,High,chr_cystitis,Chronic Cystitis,Chronic Cystitis,UMLS:C0221763,Chronic Cystitis,NA,NA
+Chronic Kidney Disease,MESH:D051436,Genitourinary,High,ckd,Chronic Kidney Disease,"Renal Insufficiency, Chronic",MESH:D007676,"Kidney Failure, Chronic",chronic kidney disease,http://www.ebi.ac.uk/efo/EFO_0003884
+Chronic Kidney Disease,MESH:D051436,Genitourinary,High,ckd,Chronic Kidney Disease,"Renal Insufficiency, Chronic",MESH:D051436,"Renal Insufficiency, Chronic",NA,NA
+Chronic Obstructive Pulmonary Disease,MESH:D029424,Respiratory,High,copd,Chronic Obstructive Pulmonary Disease,"Pulmonary Disease, Chronic Obstructive",MESH:D029424,"Pulmonary Disease, Chronic Obstructive",chronic obstructive pulmonary disease,http://www.ebi.ac.uk/efo/EFO_0000341
+Chronic Obstructive Pulmonary Disease,MESH:D029424,Respiratory,High,copd,Chronic Obstructive Pulmonary Disease,"Pulmonary Disease, Chronic Obstructive",MESH:D011656,Pulmonary Emphysema,emphysema,http://www.ebi.ac.uk/efo/EFO_0000464
+Chronic Obstructive Pulmonary Disease,MESH:D029424,Respiratory,High,copd,Chronic Obstructive Pulmonary Disease,"Pulmonary Disease, Chronic Obstructive",MESH:D029481,"Bronchitis, Chronic",NA,NA
+Cirrhosis,MESH:D008103,Digestive,High,cirrhosis,Cirrhosis,Liver Cirrhosis,MESH:D008103,Liver Cirrhosis,hepatitis C induced liver cirrhosis,http://www.ebi.ac.uk/efo/EFO_0005129
+Cirrhosis,MESH:D008103,Digestive,High,cirrhosis,Cirrhosis,Liver Cirrhosis,MESH:D008105,"Liver Cirrhosis, Biliary",primary biliary cirrhosis,http://www.ebi.ac.uk/efo/EFO_1001486
+Cirrhosis,MESH:D008103,Digestive,High,cirrhosis,Cirrhosis,Liver Cirrhosis,MESH:D008103,Liver Cirrhosis,alcoholic liver cirrhosis,http://www.ebi.ac.uk/efo/EFO_1000802
+Cirrhosis,MESH:D008103,Digestive,High,cirrhosis,Cirrhosis,Liver Cirrhosis,MESH:D008105,"Liver Cirrhosis, Biliary",biliary liver cirrhosis,http://www.ebi.ac.uk/efo/EFO_0004267
+Collapsed Vertebra,UMLS:C0410550,Musculoskeletal,High,collapsed_vert,Collapsed vertebra,Collapse of vertebra,UMLS:C0410550,Collapse of vertebra,spine bone mineral density,http://www.ebi.ac.uk/efo/EFO_0007701
+Collapsed Vertebra,UMLS:C0410550,Musculoskeletal,High,collapsed_vert,Collapsed vertebra,Collapse of vertebra,UMLS:C0410550,Collapse of vertebra,spinal fracture,http://www.ebi.ac.uk/efo/EFO_0003902
+Coronary Heart Disease (not otherwise specified),MESH:D003324,Cardiovascular,High,chd_nos,Coronary heart disease not otherwise specified,Coronary Artery Disease,MESH:D003324,Coronary Artery Disease,coronary heart disease,http://www.ebi.ac.uk/efo/EFO_0001645
+Coronary Heart Disease (not otherwise specified),MESH:D003324,Cardiovascular,High,chd_nos,Coronary heart disease not otherwise specified,Coronary Artery Disease,MESH:D003324,Coronary Artery Disease,non-obstructive coronary artery disease,http://www.ebi.ac.uk/efo/EFO_1001483
+Coronary Heart Disease (not otherwise specified),MESH:D003324,Cardiovascular,High,chd_nos,Coronary heart disease not otherwise specified,Coronary Artery Disease,MESH:D003324,Coronary Artery Disease,coronary artery disease,http://www.ebi.ac.uk/efo/EFO_0000378
+Deafness,MESH:D003638,Ear,High,deaf,Deafness,Deafness,MESH:D003638,Deafness,age-related hearing impairment,http://www.ebi.ac.uk/efo/EFO_0005782
+Deafness,MESH:D003638,Ear,High,deaf,Deafness,Deafness,MESH:D003638,Deafness,hearing loss,http://www.ebi.ac.uk/efo/EFO_0004238
+Deafness,MESH:D003638,Ear,High,deaf,Deafness,Deafness,MESH:D054062,Deaf-Blind Disorders,NA,NA
+Delirium,MESH:D003693,Psychiatric,High,delirium,Delirium,Delirium,MESH:D003693,Delirium,delirium,http://www.ebi.ac.uk/efo/EFO_0009267
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D000544,Alzheimer Disease,late-onset Alzheimers disease,http://www.ebi.ac.uk/efo/EFO_1001870
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D003704,Dementia,Lewy body dementia,http://www.ebi.ac.uk/efo/EFO_0006792
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D003704,Dementia,Frontotemporal dementia,http://www.orpha.net/ORDO/Orphanet_282
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D015161,"Dementia, Multi-Infarct",NA,NA
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D015140,"Dementia, Vascular",vascular dementia,http://www.ebi.ac.uk/efo/EFO_0004718
+Dementia,MESH:D003704,Psychiatric,High,dementia,Dementia,Dementia,MESH:D000544,Alzheimer Disease,Alzheimer's disease,http://www.ebi.ac.uk/efo/EFO_0000249
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D017484,"Dermatitis, Phototoxic",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D017454,"Dermatitis, Photoallergic",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D003872,Dermatitis,seborrheic dermatitis,http://www.ebi.ac.uk/efo/EFO_1000764
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D003875,Drug Eruptions,NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D004485,Eczema,NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D017453,"Dermatitis, Irritant",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D003873,"Dermatitis, Exfoliative",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D009450,Neurodermatitis,NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D017449,"Dermatitis, Allergic Contact",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D003877,"Dermatitis, Contact",contact dermatitis due to nickel,http://www.ebi.ac.uk/efo/EFO_0005320
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D009783,"Dermatitis, Occupational",NA,NA
+Dermatitis,MESH:D003872,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified),Dermatitis,MESH:D003876,"Dermatitis, Atopic",atopic eczema,http://www.ebi.ac.uk/efo/EFO_0000274
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D016883,Diabetic Ketoacidosis,NA,NA
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D003926,Diabetic Coma,NA,NA
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D003920,Diabetes Mellitus,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D058065,Diabetic Cardiomyopathies,NA,NA
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D000071698,Latent Autoimmune Diabetes in Adults,latent autoimmune diabetes in adults,http://www.ebi.ac.uk/efo/EFO_0009706
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D016640,"Diabetes, Gestational",gestational diabetes,http://www.ebi.ac.uk/efo/EFO_0004593
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D048909,Diabetes Complications,NA,NA
+"Diabetes Mellitus, other or not specified",MESH:D003920,Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified",Diabetes Mellitus,MESH:D003925,Diabetic Angiopathies,NA,NA
+Diabetic Eye Disease,MESH:D003930,Eye,High,dm_eye,Diabetic Eye Disease,Diabetic Retinopathy,MESH:D003930,Diabetic Retinopathy,diabetic retinopathy,http://www.ebi.ac.uk/efo/EFO_0003770
+Diabetic Eye Disease,MESH:D003930,Eye,High,dm_eye,Diabetic Eye Disease,Diabetic Retinopathy,MESH:D003930,Diabetic Retinopathy,proliferative diabetic retinopathy,http://www.ebi.ac.uk/efo/EFO_0009322
+Diabetic Neuropathy,MESH:D003929,Neurological,High,dm_neuro,Diabetic Neuropathy,Diabetic Neuropathies,MESH:D003929,Diabetic Neuropathies,NA,NA
+Diabetic Neuropathy,MESH:D003929,Neurological,High,dm_neuro,Diabetic Neuropathy,Diabetic Neuropathies,MESH:D017719,Diabetic Foot,NA,NA
+Diaphragmatic Hernia,MESH:D006548,Digestive,High,hernia_diaphragm,Diaphragmatic hernia,"Hernia, Diaphragmatic",MESH:D006548,"Hernia, Diaphragmatic",NA,NA
+Diaphragmatic Hernia,MESH:D006548,Digestive,High,hernia_diaphragm,Diaphragmatic hernia,"Hernia, Diaphragmatic",MESH:D006551,"Hernia, Hiatal",NA,NA
+Dilated cardiomyopathy,MESH:D002311,Cardiovascular,High,dcm,Dilated cardiomyopathy,"Cardiomyopathy, Dilated",MESH:D002311,"Cardiomyopathy, Dilated",idiopathic dilated cardiomyopathy,http://www.ebi.ac.uk/efo/EFO_0009094
+Dilated cardiomyopathy,MESH:D002311,Cardiovascular,High,dcm,Dilated cardiomyopathy,"Cardiomyopathy, Dilated",MESH:D002311,"Cardiomyopathy, Dilated",dilated cardiomyopathy,http://www.ebi.ac.uk/efo/EFO_0000407
+Diverticular Disease,MESH:D000076385,Digestive,High,diverticuli,Diverticular Disease,Diverticular Diseases,MESH:D004241,"Diverticulum, Colon",NA,NA
+Diverticular Disease,MESH:D000076385,Digestive,High,diverticuli,Diverticular Disease,Diverticular Diseases,MESH:D000076385,Diverticular Diseases,diverticular disease,http://www.ebi.ac.uk/efo/EFO_0009959
+Diverticular Disease,MESH:D000076385,Digestive,High,diverticuli,Diverticular Disease,Diverticular Diseases,MESH:D004238,Diverticulitis,diverticulitis,http://www.ebi.ac.uk/efo/EFO_1001460
+Diverticular Disease,MESH:D000076385,Digestive,High,diverticuli,Diverticular Disease,Diverticular Diseases,MESH:D004239,"Diverticulitis, Colonic",NA,NA
+End Stage Renal Disease,MESH:D007676,Genitourinary,High,esrd,End stage renal disease,"Kidney Failure, Chronic",MESH:D007676,"Kidney Failure, Chronic",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004831,"Epilepsies, Myoclonic",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004828,"Epilepsies, Partial",partial epilepsy,http://www.ebi.ac.uk/efo/EFO_0004263
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D000069279,Drug Resistant Epilepsy,NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004830,"Epilepsy, Tonic-Clonic",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004827,Epilepsy,epilepsy,http://www.ebi.ac.uk/efo/EFO_0000474
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020191,"Myoclonic Epilepsies, Progressive",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004833,"Epilepsy, Temporal Lobe",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020938,"Epilepsy, Partial, Motor",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020195,"Epilepsy, Reflex",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004832,"Epilepsy, Absence",Childhood absence epilepsy,http://www.orpha.net/ORDO/Orphanet_64280
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D000073376,Epileptic Syndromes,NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020190,"Myoclonic Epilepsy, Juvenile",Juvenile myoclonic epilepsy,http://www.orpha.net/ORDO/Orphanet_307
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D017034,"Epilepsy, Frontal Lobe",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020936,"Epilepsy, Benign Neonatal",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D013036,"Spasms, Infantile",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D017029,"Epilepsy, Complex Partial",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D004829,"Epilepsy, Generalized",generalised epilepsy,http://www.ebi.ac.uk/efo/EFO_0005917
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D020937,"Epilepsy, Partial, Sensory",NA,NA
+Epilepsy,MESH:D004827,Neurological,High,epilepsy,Epilepsy,Epilepsy,MESH:D019305,"Epilepsy, Rolandic",NA,NA
+Essential Tremor,MESH:D020329,Neurological,High,essential_tremor,Essential Tremor,Essential Tremor,MESH:D020329,Essential Tremor,essential tremor,http://www.ebi.ac.uk/efo/EFO_0003108
+Fatty Liver,MESH:D005234,Digestive,High,fatty_liver,Fatty Liver,Fatty Liver,MESH:D005234,Fatty Liver,non-alcoholic steatohepatitis,http://www.ebi.ac.uk/efo/EFO_1001249
+Fatty Liver,MESH:D005234,Digestive,High,fatty_liver,Fatty Liver,Fatty Liver,MESH:D065626,Non-alcoholic Fatty Liver Disease,non-alcoholic fatty liver disease,http://www.ebi.ac.uk/efo/EFO_0003095
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D018222,"Fibromatosis, Aggressive",NA,NA
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D005350,Fibroma,NA,NA
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D018214,"Fibroma, Ossifying",NA,NA
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D018221,"Fibromatosis, Abdominal",NA,NA
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D018220,"Fibroma, Desmoplastic",NA,NA
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D004387,Dupuytren Contracture,Dupuytren Contracture,http://www.ebi.ac.uk/efo/EFO_0004229
+Fibromatosis,MESH:D005350,Musculoskeletal,High,fibromatosis,Fibromatoses,Fibroma,MESH:D000071380,"Fibromatosis, Plantar",NA,NA
+Folate Deficiency Anaemia,UMLS:C0472730,Haematological/ Immuunoligcal,High,foldef,Folate deficiency anaemia,Folate deficiency anaemia due to malabsorption,UMLS:C0472730,Folate deficiency anaemia due to malabsorption,NA,NA
+"Fracture, Hip",MESH:D006620,Musculoskeletal,High,frac_hip,Fracture - hip,Hip Fractures,MESH:D005265,Femoral Neck Fractures,NA,NA
+"Fracture, Hip",MESH:D006620,Musculoskeletal,High,frac_hip,Fracture - hip,Hip Fractures,MESH:D006620,Hip Fractures,hip bone mineral density,http://www.ebi.ac.uk/efo/EFO_0007702
+"Fracture, Wrist",MESH:D011885,Musculoskeletal,High,frac_wrist,Fracture - wrist,Radius Fractures,NA,Wrist Fracture,NA,NA
+"Fracture, Wrist",MESH:D011885,Musculoskeletal,High,frac_wrist,Fracture - wrist,Radius Fractures,MESH:D014458,Ulna Fractures,radius bone mineral density,http://www.ebi.ac.uk/efo/EFO_0007933
+"Fracture, Wrist",MESH:D014458,Musculoskeletal,High,frac_wrist,Fracture - wrist,Ulna Fractures,MESH:D003100,Colles' Fracture,NA,NA
+"Fracture, Wrist",MESH:D014458,Musculoskeletal,High,frac_wrist,Fracture - wrist,Ulna Fractures,MESH:D011885,Radius Fractures,NA,NA
+Fungal Infection,MESH:D009181,Infections,High,id_mycoses,Fungal Infection,Mycoses,MESH:D016469,Fungemia,NA,NA
+Fungal Infection,MESH:D009181,Infections,High,id_mycoses,Fungal Infection,Mycoses,MESH:D009181,Mycoses,NA,NA
+Gastritis,MESH:D005756,Digestive,High,gastritis,Gastritis,Gastritis,MESH:D005758,"Gastritis, Hypertrophic",NA,NA
+Gastritis,MESH:D005756,Digestive,High,gastritis,Gastritis,Gastritis,MESH:D005756,Gastritis,gastritis,http://www.ebi.ac.uk/efo/EFO_0000217
+Gastritis,MESH:D005756,Digestive,High,gastritis,Gastritis,Gastritis,MESH:D005757,"Gastritis, Atrophic",atrophic gastritis,http://www.ebi.ac.uk/efo/EFO_1000826
+Gastro-oesophageal Reflux Disease,MESH:D005764,Digestive,High,gord,Gastro-oesophageal reflux disease,Gastroesophageal Reflux,MESH:D057045,Laryngopharyngeal Reflux,NA,NA
+Gastro-oesophageal Reflux Disease,MESH:D005764,Digestive,High,gord,Gastro-oesophageal reflux disease,Gastroesophageal Reflux,MESH:D005764,Gastroesophageal Reflux,gastroesophageal reflux disease,http://www.ebi.ac.uk/efo/EFO_0003948
+Giant Cell Arteritis,MESH:D013700,Musculoskeletal,High,gca,Giant Cell arteritis,Giant Cell Arteritis,MESH:D013700,Giant Cell Arteritis,temporal arteritis,http://www.ebi.ac.uk/efo/EFO_1001209
+Glaucoma,MESH:D005901,Eye,High,glaucoma,Glaucoma,Glaucoma,MESH:D057066,Low Tension Glaucoma,low tension glaucoma,http://www.ebi.ac.uk/efo/EFO_1001022
+Glaucoma,MESH:D005901,Eye,High,glaucoma,Glaucoma,Glaucoma,MESH:D005902,"Glaucoma, Open-Angle",open-angle glaucoma,http://www.ebi.ac.uk/efo/EFO_0004190
+Glaucoma,MESH:D005901,Eye,High,glaucoma,Glaucoma,Glaucoma,MESH:D005901,Glaucoma,glaucoma,http://www.ebi.ac.uk/efo/EFO_0000516
+Glaucoma,MESH:D005901,Eye,High,glaucoma,Glaucoma,Glaucoma,MESH:D015812,"Glaucoma, Angle-Closure",primary angle closure glaucoma,http://www.ebi.ac.uk/efo/EFO_1001506
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D005923,"Glomerulosclerosis, Focal Segmental",focal segmental glomerulosclerosis,http://www.ebi.ac.uk/efo/EFO_0004236
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D005922,"Glomerulonephritis, IGA",IGA glomerulonephritis,http://www.ebi.ac.uk/efo/EFO_0004194
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D008181,Lupus Nephritis,NA,NA
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D015432,"Glomerulonephritis, Membranoproliferative",membranous glomerulonephritis,http://www.ebi.ac.uk/efo/EFO_0004254
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D005921,Glomerulonephritis,NA,NA
+Glomerulonephritis,MESH:D005921,Genitourinary,High,gn,Glomerulonephritis,Glomerulonephritis,MESH:D019867,Anti-Glomerular Basement Membrane Disease,NA,NA
+Gout,MESH:D006073,Musculoskeletal,High,gout,Gout,Gout,MESH:D015210,"Arthritis, Gouty",NA,NA
+Gout,MESH:D006073,Musculoskeletal,High,gout,Gout,Gout,MESH:D006073,Gout,gout,http://www.ebi.ac.uk/efo/EFO_0004274
+Heart Failure,MESH:D006333,Cardiovascular,High,hf,Heart failure,Heart Failure,MESH:D054143,"Heart Failure, Systolic",NA,NA
+Heart Failure,MESH:D006333,Cardiovascular,High,hf,Heart failure,Heart Failure,MESH:D054144,"Heart Failure, Diastolic",NA,NA
+Heart Failure,MESH:D006333,Cardiovascular,High,hf,Heart failure,Heart Failure,MESH:D006333,Heart Failure,heart failure,http://www.ebi.ac.uk/efo/EFO_0003144
+Heart Failure,MESH:D006333,Cardiovascular,High,hf,Heart failure,Heart Failure,MESH:D059347,Cardio-Renal Syndrome,NA,NA
+Hydrocele,MESH:D006848,Genitourinary,High,hydrocele,Hydrocoele,Testicular Hydrocele,MESH:D006848,Testicular Hydrocele,NA,NA
+Hyperparathyroidism,MESH:D006961,Endocrine,High,pth,Hyperparathyroidism,Hyperparathyroidism,MESH:D006961,Hyperparathyroidism,NA,NA
+Hyperparathyroidism,MESH:D006961,Endocrine,High,pth,Hyperparathyroidism,Hyperparathyroidism,MESH:D049950,"Hyperparathyroidism, Primary",NA,NA
+Hyperparathyroidism,MESH:D006961,Endocrine,High,pth,Hyperparathyroidism,Hyperparathyroidism,MESH:D006962,"Hyperparathyroidism, Secondary",NA,NA
+Hypersplenism,MESH:D006971,Haematological/ Immuunoligcal,High,hypersplenism,Hypersplenism,Hypersplenism,MESH:D006971,Hypersplenism,NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D059466,White Coat Hypertension,NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D006974,"Hypertension, Malignant",NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D011225,Pre-Eclampsia,preeclampsia,http://www.ebi.ac.uk/efo/EFO_0000668
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D006978,"Hypertension, Renovascular",NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D000075222,Essential Hypertension,NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D058437,Hypertensive Retinopathy,NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D004461,Eclampsia,NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D006977,"Hypertension, Renal",NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D046110,"Hypertension, Pregnancy-Induced",NA,NA
+Hypertension,MESH:D006973,Cardiovascular,High,htn,Hypertension,Hypertension,MESH:D006973,Hypertension,hypertension,http://www.ebi.ac.uk/efo/EFO_0000537
+Hypertrophic cardiomyopathy,MESH:D002312,Cardiovascular,High,hocm,Hypertrophic Cardiomyopathy,"Cardiomyopathy, Hypertrophic",MESH:D002312,"Cardiomyopathy, Hypertrophic",NA,NA
+Hypertrophic cardiomyopathy,MESH:D002312,Cardiovascular,High,hocm,Hypertrophic Cardiomyopathy,"Cardiomyopathy, Hypertrophic",MESH:D024741,"Cardiomyopathy, Hypertrophic, Familial",NA,NA
+Hyposplenism,UMLS:C0272404,Haematological/ Immuunoligcal,High,hyposplenism,Hyposplenism,Hyposplenism,UMLS:C0272404,Hyposplenism,NA,NA
+Immunodeficiency,UMLS:C0021051,Haematological/ Immuunoligcal,High,immunodef,Immunodeficiencies,Immunologic Deficiency Syndromes,UMLS:C0021051,Immunologic Deficiency Syndromes,NA,NA
+"Infection, Bone",MESH:D001850,Infections,High,id_bone,Infection - Bone,"Bone Diseases, Infectious",MESH:D001850,"Bone Diseases, Infectious",NA,NA
+"Infection, Bone",MESH:D001850,Infections,High,id_bone,Infection - Bone,"Bone Diseases, Infectious",MESH:D010019,Osteomyelitis,NA,NA
+"Infection, Bone",MESH:D001850,Infections,High,id_bone,Infection - Bone,"Bone Diseases, Infectious",MESH:D013166,Spondylitis,NA,NA
+"Infection, Bone",MESH:D001850,Infections,High,id_bone,Infection - Bone,"Bone Diseases, Infectious",MESH:D015299,Discitis,NA,NA
+"Infection, Bone",MESH:D001850,Infections,High,id_bone,Infection - Bone,"Bone Diseases, Infectious",MESH:D010522,Periostitis,NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D004751,Enteritis,NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D005759,Gastroenteritis,NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D003092,Colitis,NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D004403,Dysentery,NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D004404,"Dysentery, Amebic",NA,NA
+"Infection, Digestive System",MESH:D005759,Infections,High,id_digestive,Infection - Digestive system,Gastroenteritis,MESH:D017688,Cholera Morbus,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D015817,Eye Infections,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D003236,"Conjunctivitis, Viral",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D015822,"Eye Infections, Parasitic",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D015818,"Eye Infections, Bacterial",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D007639,"Keratoconjunctivitis, Infectious",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D003234,"Conjunctivitis, Bacterial",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D006563,Herpes Zoster Ophthalmicus,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D015828,"Eye Infections, Viral",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D006726,Hordeolum,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D015821,"Eye Infections, Fungal",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D014141,Trachoma,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D014126,"Toxoplasmosis, Ocular",NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D009878,Ophthalmia Neonatorum,NA,NA
+"Infection, Eye",MESH:D015817,Infections,High,id_eye,Infection - Eye,Eye Infections,MESH:D016849,"Keratitis, Herpetic",NA,NA
+"Infection, Heart",MESH:D004697,Infections,High,id_heart,Infection - Heart,"Endocarditis, Bacterial",MESH:D004698,"Endocarditis, Subacute Bacterial",NA,NA
+"Infection, Heart",MESH:D004697,Infections,High,id_heart,Infection - Heart,"Endocarditis, Bacterial",UMLS:C1096253,Cardiac Infection,NA,NA
+"Infection, Heart",MESH:D004697,Infections,High,id_heart,Infection - Heart,"Endocarditis, Bacterial",MESH:D004697,"Endocarditis, Bacterial",NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011019,"Pneumonia, Mycoplasma",NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D018410,"Pneumonia, Bacterial","survival time, pneumonia, septic shock, sepsis","http://www.ebi.ac.uk/efo/EFO_0000714, http://www.ebi.ac.uk/efo/EFO_0003106, http://www.ebi.ac.uk/efo/EFO_0006834, http://purl.obolibrary.org/obo/HP_0100806"
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011020,"Pneumonia, Pneumocystis",NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011014,Pneumonia,susceptibility to pneumonia measurement,http://www.ebi.ac.uk/efo/EFO_0008410
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D001996,Bronchopneumonia,NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011023,"Pneumonia, Staphylococcal",NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011024,"Pneumonia, Viral",NA,NA
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D061387,Chlamydial Pneumonia,"seropositivity measurement, Chlamydia pneumoniae seropositivity","http://www.ebi.ac.uk/efo/EFO_0007034, http://www.ebi.ac.uk/efo/EFO_0007035"
+"Infection, Lower Respiratory Tract",MESH:D011014,Infections,High,id_lrti,Infection - Lower Respiratory Tract,Pneumonia,MESH:D011018,"Pneumonia, Pneumococcal",pneumococcal bacteremia,http://www.ebi.ac.uk/efo/EFO_1001925
+"Infection, Male Genitourinary",MESH:D014552,Infections,High,id_male_gu,Infection - Male Genitourinary,Urinary Tract Infections,MESH:D001437,Bacteriuria,NA,NA
+"Infection, Male Genitourinary",MESH:D014552,Infections,High,id_male_gu,Infection - Male Genitourinary,Urinary Tract Infections,MESH:D011776,Pyuria,NA,NA
+"Infection, Male Genitourinary",MESH:D014552,Infections,High,id_male_gu,Infection - Male Genitourinary,Urinary Tract Infections,MESH:D014552,Urinary Tract Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D011051,Poliomyelitis,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020807,Central Nervous System Parasitic Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D002494,Central Nervous System Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D009187,Myelitis,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D016779,"Malaria, Cerebral",malaria,http://www.ebi.ac.uk/efo/EFO_0001068
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020314,Central Nervous System Fungal Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D011052,"Poliomyelitis, Bulbar",NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D009494,Neurosyphilis,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D016781,"Toxoplasmosis, Cerebral",NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020802,Epidural Abscess,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020804,"Encephalitis, Varicella Zoster",NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020808,Central Nervous System Protozoal Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020805,Central Nervous System Viral Diseases,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D020806,Central Nervous System Bacterial Infections,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D000069544,Infectious Encephalitis,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D016262,Postpoliomyelitis Syndrome,NA,NA
+"Infection, Other nervous system",MESH:D002494,Infections,High,id_oth_nerv_sys,"Infection, Other nervous system",Central Nervous System Infections,MESH:D018792,"Encephalitis, Viral",NA,NA
+"Infection, Other organisms",MESH:D007239,Infections,High,id_oth_organisms,"Infection, Other organisms",Infection,MESH:D007239,Infection,NA,NA
+"Infection, Other organs",MESH:D007239,Infections,High,id_oth_organs,Infection - Other Organs,Infection,MESH:D007239,Infection,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D003881,Dermatomycoses,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D004886,Erysipelas,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D016773,"Leishmaniasis, Cutaneous",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D004478,Ectoparasitic Infestations,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D007169,Impetigo,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D007896,Leishmaniasis,visceral Leishmaniasis,http://www.ebi.ac.uk/efo/EFO_0005045
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:C531621,Cutaneous anthrax,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D012874,"Skin Diseases, Infectious",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D012876,"Skin Diseases, Parasitic",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D002179,"Candidiasis, Cutaneous",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D004891,Erythema Induratum,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D005667,Furunculosis,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D006561,Herpes Simplex,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D013207,Staphylococcal Skin Infections,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D014860,Warts,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D001759,Blastomycosis,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D002178,"Candidiasis, Chronic Mucocutaneous",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D017193,"Skin Diseases, Viral",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D009198,Myiasis,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D002270,Carbuncle,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D002481,Cellulitis,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D017192,"Skin Diseases, Bacterial",NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D013174,Sporotrichosis,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D013206,Staphylococcal Scalded Skin Syndrome,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D008924,Mite Infestations,NA,NA
+"Infection, Skin",MESH:D012874,Infections,High,id_skin,Infection - Skin,"Skin Diseases, Infectious",MESH:D012532,Scabies,NA,NA
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D020145,Basal Ganglia Hemorrhage,NA,NA
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D002543,Cerebral Hemorrhage,non-lobar intracerebral hemorrhage,http://www.ebi.ac.uk/efo/EFO_0010178
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D020202,"Cerebral Hemorrhage, Traumatic",NA,NA
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D000074042,Cerebral Intraventricular Hemorrhage,NA,NA
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D002543,Cerebral Hemorrhage,lobar intracerebral hemorrhage,http://www.ebi.ac.uk/efo/EFO_0010177
+Intracerebral Haemorrhage,MESH:D002543,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage,Cerebral Hemorrhage,MESH:D002543,Cerebral Hemorrhage,intracerebral hemorrhage,http://www.ebi.ac.uk/efo/EFO_0005669
+Iron Deficiency Anaemia,MESH:D018798,Haematological/ Immuunoligcal,High,ida,Iron Deficiency Anaemia,"Anemia, Iron-Deficiency",MESH:D018798,"Anemia, Iron-Deficiency",NA,NA
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D002544,Cerebral Infarction,Ischemic stroke,http://purl.obolibrary.org/obo/HP_0002140
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D020520,Brain Infarction,cardioembolic stroke,http://www.ebi.ac.uk/efo/EFO_1001976
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D020526,Brain Stem Infarctions,NA,NA
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D020243,"Infarction, Anterior Cerebral Artery",NA,NA
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D020244,"Infarction, Middle Cerebral Artery",NA,NA
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D020762,"Infarction, Posterior Cerebral Artery",NA,NA
+Ischaemic Stroke,MESH:D020520,Cardiovascular,High,isch_stroke,Ischaemic Stroke,Brain Infarction,MESH:D014854,Lateral Medullary Syndrome,NA,NA
+Keratitis,MESH:D007634,Eye,High,keratitis,Keratitis,Keratitis,MESH:D007637,Keratoconjunctivitis,NA,NA
+Keratitis,MESH:D007634,Eye,High,keratitis,Keratitis,Keratitis,MESH:D015823,Acanthamoeba Keratitis,NA,NA
+Keratitis,MESH:D007634,Eye,High,keratitis,Keratitis,Keratitis,MESH:D016849,"Keratitis, Herpetic",NA,NA
+Keratitis,MESH:D007634,Eye,High,keratitis,Keratitis,Keratitis,MESH:D007634,Keratitis,NA,NA
+Keratitis,MESH:D007634,Eye,High,keratitis,Keratitis,Keratitis,MESH:D007635,"Keratitis, Dendritic",NA,NA
+Left Bundle Branch Block,MESH:D002037,Cardiovascular,High,lbbb,Left Bundle Branch Block,Bundle-Branch Block,MESH:D002037,Bundle-Branch Block,NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015471,"Leukemia, Basophilic, Acute",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015459,"Leukemia-Lymphoma, Adult T-Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015448,"Leukemia, B-Cell",B-cell acute lymphoblastic leukemia,http://www.ebi.ac.uk/efo/EFO_0000094
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015448,"Leukemia, B-Cell",acute lymphoblastic leukemia,http://www.ebi.ac.uk/efo/EFO_0000220
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007946,"Leukemia, Mast-Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015477,"Leukemia, Myelomonocytic, Chronic",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D054438,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015479,"Leukemia, Myelomonocytic, Acute",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007945,"Leukemia, Lymphoid",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015461,"Leukemia, Prolymphocytic, T-Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007943,"Leukemia, Hairy Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015451,"Leukemia, Lymphocytic, Chronic, B-Cell",chronic lymphocytic leukemia,http://www.ebi.ac.uk/efo/EFO_0000095
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015470,"Leukemia, Myeloid, Acute",acute myeloid leukemia,http://www.ebi.ac.uk/efo/EFO_0000222
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007948,"Leukemia, Monocytic, Acute",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007947,"Leukemia, Megakaryoblastic, Acute",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007938,Leukemia,NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D054429,"Leukemia, Myelomonocytic, Juvenile",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015463,"Leukemia, Prolymphocytic",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D054403,"Leukemia, Prolymphocytic, B-Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015473,"Leukemia, Promyelocytic, Acute",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015458,"Leukemia, T-Cell",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D023981,"Sarcoma, Myeloid",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D007951,"Leukemia, Myeloid",NA,NA
+Leukaemia,MESH:D007938,Cancers,High,malig_leukaemia,Leukaemia,Leukemia,MESH:D015464,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",chronic myelogenous leukemia,http://www.ebi.ac.uk/efo/EFO_0000339
+Lichen Planus,MESH:D008010,Skin,High,lichen_planus,Lichen Planus,Lichen Planus,MESH:D017676,"Lichen Planus, Oral",NA,NA
+Lichen Planus,MESH:D008010,Skin,High,lichen_planus,Lichen Planus,Lichen Planus,MESH:D008010,Lichen Planus,NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D017114,"Liver Failure, Acute",NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D047508,Massive Hepatic Necrosis,NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D017093,Liver Failure,NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D006501,Hepatic Encephalopathy,NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D065290,Acute-On-Chronic Liver Failure,NA,NA
+Liver Failure,MESH:D017093,Digestive,High,liver_fail,Hepatic failure,Liver Failure,MESH:D058625,End Stage Liver Disease,NA,NA
+Low high density lipoprotein-cholesterol,UMLS:C0151691,Endocrine,High,lowhdl,Low HDL-C,Decreased HDL cholesterol concentration,UMLS:C0151691,Decreased HDL cholesterol concentration,high density lipoprotein cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004612
+Macular Degeneration,MESH:D008268,Eye,High,macula_degen,Macular Degeneration,Macular Degeneration,MESH:D008268,Macular Degeneration,age-related macular degeneration,http://www.ebi.ac.uk/efo/EFO_0001365
+Macular Degeneration,MESH:D008268,Eye,High,macula_degen,Macular Degeneration,Macular Degeneration,MESH:D057135,Wet Macular Degeneration,wet macular degeneration,http://www.ebi.ac.uk/efo/EFO_0004683
+Macular Degeneration,MESH:D008268,Eye,High,macula_degen,Macular Degeneration,Macular Degeneration,MESH:D008268,Macular Degeneration,atrophic macular degeneration,http://www.ebi.ac.uk/efo/EFO_1001492
+Meniere's Disease,MESH:D008575,Ear,High,meniere,Menieres Disease,Meniere Disease,MESH:D008575,Meniere Disease,NA,NA
+Monoclonal Gammopathy of Unknown Significance,MESH:D008998,Cancers,High,malig_mgus,Monoclonal Gammopathy of Unknown Significance,Monoclonal Gammopathy of Undetermined Significance,MESH:D008998,Monoclonal Gammopathy of Undetermined Significance,monoclonal gammopathy,http://www.ebi.ac.uk/efo/EFO_0000203
+Motor Neurone Disease,MESH:D016472,Neurological,High,mnd,Motor Neurone Disease,Motor Neuron Disease,MESH:D016472,Motor Neuron Disease,NA,NA
+Motor Neurone Disease,MESH:D016472,Neurological,High,mnd,Motor Neurone Disease,Motor Neuron Disease,MESH:D010244,"Bulbar Palsy, Progressive",NA,NA
+Motor Neurone Disease,MESH:D016472,Neurological,High,mnd,Motor Neurone Disease,Motor Neuron Disease,MESH:D000690,Amyotrophic Lateral Sclerosis,sporadic amyotrophic lateral sclerosis,http://www.ebi.ac.uk/efo/EFO_0001357
+Motor Neurone Disease,MESH:D016472,Neurological,High,mnd,Motor Neurone Disease,Motor Neuron Disease,MESH:D000690,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis,http://www.ebi.ac.uk/efo/EFO_0000253
+Multiple valve disorder,UMLS:C0348584,Cardiovascular,High,mult_valve,Multiple valve disease,Multiple Valve Disease,UMLS:C0348584,Multiple Valve Disease,NA,NA
+Myasthenia Gravis,MESH:D009157,Neurological,High,myasthenia,Myasthenia Gravis,Myasthenia Gravis,MESH:D009157,Myasthenia Gravis,Myasthenia gravis,http://www.ebi.ac.uk/efo/EFO_0004991
+Myelodysplastic Syndrome,MESH:D009190,Cancers,High,malig_mds,Myelodysplastic Syndrome,Myelodysplastic Syndromes,MESH:D000754,"Anemia, Refractory, with Excess of Blasts",NA,NA
+Myelodysplastic Syndrome,MESH:D009190,Cancers,High,malig_mds,Myelodysplastic Syndrome,Myelodysplastic Syndromes,MESH:D000753,"Anemia, Refractory",NA,NA
+Myelodysplastic Syndrome,MESH:D009190,Cancers,High,malig_mds,Myelodysplastic Syndrome,Myelodysplastic Syndromes,MESH:D000756,"Anemia, Sideroblastic",NA,NA
+Myelodysplastic Syndrome,MESH:D009190,Cancers,High,malig_mds,Myelodysplastic Syndrome,Myelodysplastic Syndromes,MESH:D009190,Myelodysplastic Syndromes,myeloproliferative disorder,http://www.ebi.ac.uk/efo/EFO_0004251
+Myocardial Infarction,MESH:D009203,Cardiovascular,High,mi,Myocardial Infarction,Myocardial Infarction,MESH:D009203,Myocardial Infarction,myocardial infarction,http://www.ebi.ac.uk/efo/EFO_0000612
+Myocardial Infarction,MESH:D009203,Cardiovascular,High,mi,Myocardial Infarction,Myocardial Infarction,MESH:D056989,Inferior Wall Myocardial Infarction,NA,NA
+Myocardial Infarction,MESH:D009203,Cardiovascular,High,mi,Myocardial Infarction,Myocardial Infarction,MESH:D000072657,ST Elevation Myocardial Infarction,NA,NA
+Myocardial Infarction,MESH:D009203,Cardiovascular,High,mi,Myocardial Infarction,Myocardial Infarction,MESH:D056988,Anterior Wall Myocardial Infarction,NA,NA
+Myocardial Infarction,MESH:D009203,Cardiovascular,High,mi,Myocardial Infarction,Myocardial Infarction,MESH:D000072658,Non-ST Elevated Myocardial Infarction,NA,NA
+Neuropathic Bladder,MESH:D001750,Genitourinary,High,neuro_bladder,Neuropathic Bladder,"Urinary Bladder, Neurogenic",MESH:D001750,"Urinary Bladder, Neurogenic",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D009182,Mycosis Fungoides,NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D008224,"Lymphoma, Follicular",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016403,"Lymphoma, Large B-Cell, Diffuse",diffuse large B-cell lymphoma,http://www.ebi.ac.uk/efo/EFO_0000403
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D017731,Lymphomatoid Papulosis,NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016410,"Lymphoma, T-Cell, Cutaneous",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016411,"Lymphoma, T-Cell, Peripheral",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D058527,Enteropathy-Associated T-Cell Lymphoma,NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D002051,Burkitt Lymphoma,NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016393,"Lymphoma, B-Cell",marginal zone B-cell lymphoma,http://www.ebi.ac.uk/efo/EFO_1000630
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D054391,"Lymphoma, Extranodal NK-T-Cell",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D012751,Sezary Syndrome,NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016483,"Lymphoma, AIDS-Related",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016400,"Lymphoma, Large-Cell, Immunoblastic",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D054446,"Lymphoma, Primary Cutaneous Anaplastic Large Cell",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D020522,"Lymphoma, Mantle-Cell",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D017728,"Lymphoma, Large-Cell, Anaplastic",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D008228,"Lymphoma, Non-Hodgkin",NA,NA
+Non Hodgkins Lymphoma,MESH:D008228,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma,"Lymphoma, Non-Hodgkin",MESH:D016399,"Lymphoma, T-Cell",NA,NA
+Non-rheumatic Aortic valve disorder,MESH:D001023,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders,Aortic Valve Prolapse,MESH:D001023,Aortic Valve Prolapse,NA,NA
+Non-rheumatic Aortic valve disorder,MESH:D001024,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders,Aortic Valve Stenosis,MESH:D001024,Aortic Valve Stenosis,aortic stenosis,http://www.ebi.ac.uk/efo/EFO_0000266
+Non-rheumatic Aortic valve disorder,MESH:D001022,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders,Aortic Valve Insufficiency,MESH:D001022,Aortic Valve Insufficiency,aortic valve calcification,http://www.ebi.ac.uk/efo/EFO_0005239
+Non-rheumatic Mitral valve disorder,MESH:D008945,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders,Mitral Valve Prolapse,MESH:D008945,Mitral Valve Prolapse,Mitral valve prolapse,http://purl.obolibrary.org/obo/HP_0001634
+Non-rheumatic Mitral valve disorder,MESH:D008944,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders,Mitral Valve Insufficiency,MESH:D008944,Mitral Valve Insufficiency,NA,NA
+Non-rheumatic Mitral valve disorder,MESH:D008946,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders,Mitral Valve Stenosis,MESH:D008946,Mitral Valve Stenosis,NA,NA
+Obstructive and reflux uropathy,MESH:D014517,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy,Ureteral Obstruction,MESH:D014517,Ureteral Obstruction,NA,NA
+Obstructive and reflux uropathy,MESH:D014517,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy,Ureteral Obstruction,MESH:D014525,Urethral Stricture,NA,NA
+Obstructive and reflux uropathy,MESH:D014517,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy,Ureteral Obstruction,MESH:D001748,Urinary Bladder Neck Obstruction,NA,NA
+Obstructive and reflux uropathy,MESH:D014718,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy,Vesico-Ureteral Reflux,MESH:D014718,Vesico-Ureteral Reflux,vesicoureteral reflux,http://www.ebi.ac.uk/efo/EFO_0007536
+Oesophageal Ulcer,UMLS:C0151970,Digestive,High,oesoph_ulc,Oesophageal Ulcer,Ulcer of Esophagus,UMLS:C0151970,Ulcer of Esophagus,NA,NA
+Oesophageal Varices,MESH:D004932,Digestive,High,varices,Oesophageal varices,Esophageal and Gastric Varices,MESH:D004932,Esophageal and Gastric Varices,NA,NA
+Osteoarthritis,MESH:D010003,Musculoskeletal,High,oa,Osteoarthritis,Osteoarthritis,MESH:D020370,"Osteoarthritis, Knee",NA,NA
+Osteoarthritis,MESH:D010003,Musculoskeletal,High,oa,Osteoarthritis,Osteoarthritis,MESH:D015207,"Osteoarthritis, Hip",NA,NA
+Osteoarthritis,MESH:D010003,Musculoskeletal,High,oa,Osteoarthritis,Osteoarthritis,MESH:D055013,"Osteoarthritis, Spine",NA,NA
+Osteoarthritis,MESH:D010003,Musculoskeletal,High,oa,Osteoarthritis,Osteoarthritis,MESH:D010003,Osteoarthritis,osteoarthritis,http://www.ebi.ac.uk/efo/EFO_0002506
+Osteoporosis,MESH:D010024,Musculoskeletal,High,osteoporosis,Osteoporosis,Osteoporosis,MESH:D015663,"Osteoporosis, Postmenopausal",NA,NA
+Osteoporosis,MESH:D010024,Musculoskeletal,High,osteoporosis,Osteoporosis,Osteoporosis,MESH:D010024,Osteoporosis,osteoporosis,http://www.ebi.ac.uk/efo/EFO_0003882
+Other Haemolytic Anaemia,MESH:D000743,Haematological/ Immuunoligcal,High,oth_haem_anaemia,Other haemolytic anaemias,"Anemia, Hemolytic",MESH:D000743,"Anemia, Hemolytic",NA,NA
+Pancreatitis,MESH:D010195,Digestive,High,pancreatitis,Pancreatitis,Pancreatitis,MESH:D010195,Pancreatitis,pancreatitis,http://www.ebi.ac.uk/efo/EFO_0000278
+Pancreatitis,MESH:D010195,Digestive,High,pancreatitis,Pancreatitis,Pancreatitis,MESH:D050500,"Pancreatitis, Chronic",NA,NA
+Pancreatitis,MESH:D010195,Digestive,High,pancreatitis,Pancreatitis,Pancreatitis,MESH:D019512,"Pancreatitis, Alcoholic",alcoholic pancreatitis,http://www.ebi.ac.uk/efo/EFO_1002013
+Parasitic Infection,MESH:D010272,Infections,High,id_parasitic,Parasitic infections,Parasitic Diseases,MESH:D010272,Parasitemia,NA,NA
+Parkinson's Disease,MESH:D010300,Neurological,High,parkinsons,Parkinson's disease,Parkinson Disease,MESH:D010300,Parkinson Disease,Parkinson's disease,http://www.ebi.ac.uk/efo/EFO_0002508
+Peptic Ulcer,MESH:D010437,Digestive,High,ulcer_peptic,Peptic Ulcer,Peptic Ulcer,MESH:D013276,Stomach Ulcer,NA,NA
+Peptic Ulcer,MESH:D010437,Digestive,High,ulcer_peptic,Peptic Ulcer,Peptic Ulcer,MESH:D004381,Duodenal Ulcer,duodenal ulcer,http://www.ebi.ac.uk/efo/EFO_0004607
+Peptic Ulcer,MESH:D010437,Digestive,High,ulcer_peptic,Peptic Ulcer,Peptic Ulcer,MESH:D010439,Peptic Ulcer Perforation,NA,NA
+Peptic Ulcer,MESH:D010437,Digestive,High,ulcer_peptic,Peptic Ulcer,Peptic Ulcer,MESH:D010437,Peptic Ulcer,NA,NA
+Pericardial Effusion,MESH:D010490,Cardiovascular,High,pericard_eff,Pericardial effusion,Pericardial Effusion,MESH:D010490,Pericardial Effusion,NA,NA
+Peripheral Arterial Disease,MESH:D058729,Cardiovascular,High,pad,Peripheral arterial disease,Peripheral Arterial Disease,MESH:D058729,Peripheral Arterial Disease,peripheral arterial disease,http://www.ebi.ac.uk/efo/EFO_0004265
+Peripheral Neuropathy,UMLS:C0031117,Neurological,High,periph_neuro,Peripheral Neuropathy,Peripheral Neuropathy,UMLS:C0031117,Peripheral Neuropathy,NA,NA
+Peritonitis,MESH:D010538,Digestive,High,peritonitis,Peritonitis,Peritonitis,MESH:D010538,Peritonitis,NA,NA
+Peritonitis,MESH:D010538,Digestive,High,peritonitis,Peritonitis,Peritonitis,MESH:D013369,Subphrenic Abscess,NA,NA
+Plasma Cell Malignancy,MESH:D054219,Cancers,High,malig_plasmacell,Plasma Cell Malignancy,"Neoplasms, Plasma Cell",MESH:D010954,Plasmacytoma,NA,NA
+Plasma Cell Malignancy,MESH:D054219,Cancers,High,malig_plasmacell,Plasma Cell Malignancy,"Neoplasms, Plasma Cell",MESH:D009101,Multiple Myeloma,multiple myeloma,http://www.ebi.ac.uk/efo/EFO_0001378
+Plasma Cell Malignancy,MESH:D054219,Cancers,High,malig_plasmacell,Plasma Cell Malignancy,"Neoplasms, Plasma Cell",MESH:D054219,"Neoplasms, Plasma Cell",NA,NA
+Plasma Cell Malignancy,MESH:D054219,Cancers,High,malig_plasmacell,Plasma Cell Malignancy,"Neoplasms, Plasma Cell",MESH:D007952,"Leukemia, Plasma Cell",NA,NA
+Pleural Effusion,MESH:D010996,Respiratory,High,pleural_eff,Pleural effusion,Pleural Effusion,MESH:D010996,Pleural Effusion,NA,NA
+Pleural Effusion,MESH:D010996,Respiratory,High,pleural_eff,Pleural effusion,Pleural Effusion,MESH:D016066,"Pleural Effusion, Malignant",NA,NA
+Pleural Plaque,UMLS:C0340030,Respiratory,High,pleural_plaque,Pleural plaque,Pleural Plaque,UMLS:C0340030,Pleural Plaque,NA,NA
+Pneumothorax,MESH:D011030,Respiratory,High,pneumothorax,Pneumothorax,Pneumothorax,MESH:D011030,Pneumothorax,NA,NA
+Polycythaemia vera,MESH:D011087,Cancers,High,malig_pcv,Polycythaemia Vera,Polycythemia Vera,MESH:D011087,Polycythemia Vera,NA,NA
+Polymyalgia Rheumatica,MESH:D011111,Musculoskeletal,High,pmr,Polymyalgia Rheumatica,Polymyalgia Rheumatica,MESH:D011111,Polymyalgia Rheumatica,NA,NA
+Portal Hypertension,MESH:D006975,Digestive,High,portal_htn,Portal Hypertension,"Hypertension, Portal",MESH:D006975,"Hypertension, Portal",NA,NA
+"Primary Malignancy, Biliary",MESH:D001661,Cancers,High,malig_pri_biliary,Primary Malignancy - Biliary,Biliary Tract Neoplasms,MESH:D001661,Biliary Tract Neoplasms,NA,NA
+"Primary Malignancy, Bladder",MESH:D001749,Cancers,High,malig_pri_bladder,Primary Malignancy - Bladder,Urinary Bladder Neoplasms,MESH:D001749,Urinary Bladder Neoplasms,bladder carcinoma,http://www.ebi.ac.uk/efo/EFO_0000292
+"Primary Malignancy, Bone",MESH:D001859,Cancers,High,malig_pri_bone,Primary Malignancy - Bone,Bone Neoplasms,MESH:D001859,Bone Neoplasms,osteosarcoma,http://www.ebi.ac.uk/efo/EFO_0000637
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D002430,Cecal Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D007414,Intestinal Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D001005,Anus Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D003110,Colonic Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D015179,Colorectal Neoplasms,colorectal cancer,http://www.ebi.ac.uk/efo/EFO_0005842
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D001063,Appendiceal Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D012004,Rectal Neoplasms,NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D003123,"Colorectal Neoplasms, Hereditary Nonpolyposis",NA,NA
+"Primary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel,Intestinal Neoplasms,MESH:D012811,Sigmoid Neoplasms,NA,NA
+"Primary Malignancy, Brain",MESH:D001932,Cancers,High,malig_pri_brain,Primary Malignancy - Brain,Brain Neoplasms,MESH:D001932,Brain Neoplasms,NA,NA
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D018270,"Carcinoma, Ductal, Breast",NA,NA
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D000071960,Breast Carcinoma In Situ,NA,NA
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D010144,"Paget's Disease, Mammary",NA,NA
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D018567,"Breast Neoplasms, Male",male breast carcinoma,http://www.ebi.ac.uk/efo/EFO_0006861
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D001943,Breast Neoplasms,breast carcinoma,http://www.ebi.ac.uk/efo/EFO_0000305
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D018275,"Carcinoma, Lobular",NA,NA
+"Primary Malignancy, Breast",MESH:D001943,Cancers,High,malig_pri_breast,Primary Malignancy - Breast,Breast Neoplasms,MESH:D002285,"Carcinoma, Intraductal, Noninfiltrating",NA,NA
+"Primary Malignancy, Kidney",MESH:D007680,Cancers,High,malig_pri_kidney,Primary Malignancy - Kidney,Kidney Neoplasms,MESH:D007680,Kidney Neoplasms,NA,NA
+"Primary Malignancy, Kidney",MESH:D007680,Cancers,High,malig_pri_kidney,Primary Malignancy - Kidney,Kidney Neoplasms,MESH:D002292,"Carcinoma, Renal Cell",renal cell carcinoma,http://www.ebi.ac.uk/efo/EFO_0000681
+"Primary Malignancy, Liver",MESH:D008113,Cancers,High,malig_pri_liver,Primary Malignancy - Liver,Liver Neoplasms,MESH:D008113,Liver Neoplasms,NA,NA
+"Primary Malignancy, Liver",MESH:D008113,Cancers,High,malig_pri_liver,Primary Malignancy - Liver,Liver Neoplasms,MESH:D006528,"Carcinoma, Hepatocellular",hepatocellular carcinoma,http://www.ebi.ac.uk/efo/EFO_0000182
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D000077192,Adenocarcinoma of Lung,squamous cell lung carcinoma,http://www.ebi.ac.uk/efo/EFO_0000708
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D010178,Pancoast Syndrome,NA,NA
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D008175,Lung Neoplasms,lung carcinoma,http://www.ebi.ac.uk/efo/EFO_0001071
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D000077192,Adenocarcinoma of Lung,lung adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_0000571
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D002282,"Adenocarcinoma, Bronchiolo-Alveolar",NA,NA
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D001984,Bronchial Neoplasms,NA,NA
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D002283,"Carcinoma, Bronchogenic",NA,NA
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D002289,"Carcinoma, Non-Small-Cell Lung",non-small cell lung carcinoma,http://www.ebi.ac.uk/efo/EFO_0003060
+"Primary Malignancy, Lung",MESH:D008175,Cancers,High,malig_pri_lung,Primary Malignancy - Lung,Lung Neoplasms,MESH:D055752,Small Cell Lung Carcinoma,small cell lung carcinoma,http://www.ebi.ac.uk/efo/EFO_0000702
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D008545,Melanoma,cutaneous melanoma,http://www.ebi.ac.uk/efo/EFO_0000389
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D008545,Melanoma,Uveal Melanoma,http://www.ebi.ac.uk/efo/EFO_1000616
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D008545,Melanoma,melanoma,http://www.ebi.ac.uk/efo/EFO_0000756
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D018328,"Melanoma, Amelanotic",NA,NA
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D018327,Hutchinson's Melanotic Freckle,NA,NA
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D008545,Melanoma,choroidal melanoma,http://www.ebi.ac.uk/efo/EFO_0009093
+"Primary Malignancy, Melanoma",MESH:D008545,Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma,Melanoma,MESH:D008545,Melanoma,Epithelioid Cell Uveal Melanoma,http://www.ebi.ac.uk/efo/EFO_1000244
+"Primary Malignancy, Mesothelioma",MESH:D008654,Cancers,High,malig_pri_mesothelioma,Primary Malignancy - Mesothelioma,Mesothelioma,MESH:D008654,Mesothelioma,NA,NA
+"Primary Malignancy, Oesophageal",MESH:D004938,Cancers,High,malig_pri_oesoph,Primary Malignancy - Oesophageal,Esophageal Neoplasms,MESH:D004938,Esophageal Neoplasms,esophageal carcinoma,http://www.ebi.ac.uk/efo/EFO_0002916
+"Primary Malignancy, Oesophageal",MESH:D004938,Cancers,High,malig_pri_oesoph,Primary Malignancy - Oesophageal,Esophageal Neoplasms,MESH:D004938,Esophageal Neoplasms,esophageal adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_0000478
+"Primary Malignancy, Oesophageal",MESH:D004938,Cancers,High,malig_pri_oesoph,Primary Malignancy - Oesophageal,Esophageal Neoplasms,MESH:D000077277,Esophageal Squamous Cell Carcinoma,esophageal squamous cell carcinoma,http://www.ebi.ac.uk/efo/EFO_0005922
+"Primary Malignancy, Oropharyngeal",MESH:D009959,Cancers,High,malig_pri_oroph,Primary Malignancy - Oropharyngeal,Oropharyngeal Neoplasms,MESH:D014067,Tonsillar Neoplasms,NA,NA
+"Primary Malignancy, Oropharyngeal",MESH:D009959,Cancers,High,malig_pri_oroph,Primary Malignancy - Oropharyngeal,Oropharyngeal Neoplasms,MESH:D009959,Oropharyngeal Neoplasms,oropharynx cancer,http://www.ebi.ac.uk/efo/EFO_1001931
+"Primary Malignancy, other",MESH:D009369,Cancers,High,malig_pri_other,Primary Malignancy - Other,Neoplasms,MESH:D009369,Neoplasms,NA,NA
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,ovarian mucinous adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_0006462
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,Malignant epithelial tumor of ovary,http://www.orpha.net/ORDO/Orphanet_398934
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,ovarian carcinoma,http://www.ebi.ac.uk/efo/EFO_0001075
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D000077216,"Carcinoma, Ovarian Epithelial",NA,NA
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,ovarian serous carcinoma,http://www.ebi.ac.uk/efo/EFO_1001516
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,ovarian clear cell adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_1000042
+"Primary Malignancy, Ovary",MESH:D010051,Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary,Ovarian Neoplasms,MESH:D010051,Ovarian Neoplasms,ovarian endometrioid carcinoma,http://www.ebi.ac.uk/efo/EFO_1001515
+"Primary Malignancy, Pancreas",MESH:D010190,Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas,Pancreatic Neoplasms,MESH:D021441,"Carcinoma, Pancreatic Ductal",NA,NA
+"Primary Malignancy, Pancreas",MESH:D010190,Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas,Pancreatic Neoplasms,MESH:D018273,"Carcinoma, Islet Cell",NA,NA
+"Primary Malignancy, Pancreas",MESH:D010190,Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas,Pancreatic Neoplasms,MESH:D010190,Pancreatic Neoplasms,pancreatic carcinoma,http://www.ebi.ac.uk/efo/EFO_0002618
+"Primary Malignancy, Pancreas",MESH:D010190,Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas,Pancreatic Neoplasms,MESH:D000077779,Pancreatic Intraductal Neoplasms,NA,NA
+"Primary Malignancy, Pancreas",MESH:D010190,Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas,Pancreatic Neoplasms,MESH:D005935,Glucagonoma,NA,NA
+"Primary Malignancy, Prostate",MESH:D011471,Cancers,High,malig_pri_prost,Primary Malignancy Prostate,Prostatic Neoplasms,MESH:D011471,Prostatic Neoplasms,prostate carcinoma,http://www.ebi.ac.uk/efo/EFO_0001663
+"Primary Malignancy, Skin",MESH:D012878,Cancers,High,malig_pri_skin,Primary Malignancy - Skin,Skin Neoplasms,MESH:D013544,Sweat Gland Neoplasms,NA,NA
+"Primary Malignancy, Skin",MESH:D012878,Cancers,High,malig_pri_skin,Primary Malignancy - Skin,Skin Neoplasms,MESH:D012626,Sebaceous Gland Neoplasms,NA,NA
+"Primary Malignancy, Skin",MESH:D012878,Cancers,High,malig_pri_skin,Primary Malignancy - Skin,Skin Neoplasms,MESH:D012878,Skin Neoplasms,basal cell carcinoma,http://www.ebi.ac.uk/efo/EFO_0004193
+"Primary Malignancy, Skin",MESH:D012878,Cancers,High,malig_pri_skin,Primary Malignancy - Skin,Skin Neoplasms,MESH:D012878,Skin Neoplasms,cutaneous squamous cell carcinoma,http://www.ebi.ac.uk/efo/EFO_1001927
+"Primary Malignancy, Stomach",MESH:D013274,Cancers,High,malig_pri_stomach,Primary Malignancy - Stomach,Stomach Neoplasms,MESH:D013274,Stomach Neoplasms,gastric adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_0000503
+"Primary Malignancy, Stomach",MESH:D013274,Cancers,High,malig_pri_stomach,Primary Malignancy - Stomach,Stomach Neoplasms,MESH:D013274,Stomach Neoplasms,gastric cardia carcinoma,http://www.ebi.ac.uk/efo/EFO_1001252
+"Primary Malignancy, Stomach",MESH:D013274,Cancers,High,malig_pri_stomach,Primary Malignancy - Stomach,Stomach Neoplasms,MESH:D013274,Stomach Neoplasms,gastric carcinoma,http://www.ebi.ac.uk/efo/EFO_0000178
+"Primary Malignancy, Thyroid",MESH:D013964,Cancers,High,malig_pri_thyroid,Primary Malignancy - Thyroid,Thyroid Neoplasms,MESH:D013964,Thyroid Neoplasms,differentiated thyroid carcinoma,http://www.ebi.ac.uk/efo/EFO_1002017
+"Primary Malignancy, Thyroid",MESH:D013964,Cancers,High,malig_pri_thyroid,Primary Malignancy - Thyroid,Thyroid Neoplasms,MESH:D013964,Thyroid Neoplasms,papillary thyroid carcinoma,http://www.ebi.ac.uk/efo/EFO_0000641
+"Primary Malignancy, Thyroid",MESH:D013964,Cancers,High,malig_pri_thyroid,Primary Malignancy - Thyroid,Thyroid Neoplasms,MESH:D013964,Thyroid Neoplasms,thyroid carcinoma,http://www.ebi.ac.uk/efo/EFO_0002892
+"Primary Malignancy, Uterus",MESH:D014594,Cancers,High,malig_pri_uterine,Primary Malignancy - Uterus,Uterine Neoplasms,MESH:D014594,Uterine Neoplasms,NA,NA
+"Primary Malignancy, Uterus",MESH:D014594,Cancers,High,malig_pri_uterine,Primary Malignancy - Uterus,Uterine Neoplasms,MESH:D018269,"Carcinoma, Endometrioid",endometrial endometrioid carcinoma,http://www.ebi.ac.uk/efo/EFO_1001514
+"Primary Malignancy, Uterus",MESH:D014594,Cancers,High,malig_pri_uterine,Primary Malignancy - Uterus,Uterine Neoplasms,MESH:D016889,Endometrial Neoplasms,endometrial carcinoma,http://www.ebi.ac.uk/efo/EFO_1001512
+"Primary Malignancy, Uterus",MESH:D014594,Cancers,High,malig_pri_uterine,Primary Malignancy - Uterus,Uterine Neoplasms,MESH:D018203,"Sarcoma, Endometrial Stromal",NA,NA
+Primary Pulmonary Hypertension,MESH:D006976,Cardiovascular,High,pulm_htn_pri,Primary pulmonary hypertension,"Hypertension, Pulmonary",MESH:D006976,"Hypertension, Pulmonary",pulmonary arterial hypertension,http://www.ebi.ac.uk/efo/EFO_0001361
+Primary thrombocytopaenia,MESH:D013921,Haematological/ Immuunoligcal,High,pri_thrombocytopaenia,Primary thrombocytopaenia,Thrombocytopenia,MESH:D013921,Thrombocytopenia,NA,NA
+Ptosis,MESH:D001763,Eye,High,ptosis,Ptosis,Blepharoptosis,MESH:D001763,Blepharoptosis,NA,NA
+Pulmonary Collapse,MESH:D001261,Respiratory,High,pulm_collapse,Pulmonary Collapse,Pulmonary Atelectasis,MESH:D001261,Pulmonary Atelectasis,NA,NA
+Pulmonary Embolism,MESH:D011655,Cardiovascular,High,pe,Pulmonary Embolism,Pulmonary Embolism,MESH:D054060,Pulmonary Infarction,NA,NA
+Pulmonary Embolism,MESH:D011655,Cardiovascular,High,pe,Pulmonary Embolism,Pulmonary Embolism,MESH:D011655,Pulmonary Embolism,NA,NA
+Pulmonary Fibrosis,MESH:D011658,Respiratory,High,pulm_fibrosis,Pulmonary Fibrosis,Pulmonary Fibrosis,MESH:D054990,Idiopathic Pulmonary Fibrosis,idiopathic pulmonary fibrosis,http://www.ebi.ac.uk/efo/EFO_0000768
+Pulmonary Fibrosis,MESH:D011658,Respiratory,High,pulm_fibrosis,Pulmonary Fibrosis,Pulmonary Fibrosis,MESH:D011658,Pulmonary Fibrosis,NA,NA
+Raised low density lipoprotein-cholesterol,UMLS:C0549399,Endocrine,High,raisedldl,Raised LDL-C,Low density lipoprotein increased,UMLS:C0549399,Low density lipoprotein increased,low density lipoprotein cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004611
+Raised Total Cholesterol,MESH:D006937,Endocrine,High,raisedtc,Raised Total Cholesterol,Hypercholesterolemia,MESH:D006937,Hypercholesterolemia,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574
+Raised Triglycerides,MESH:D015228,Endocrine,High,raisedtg,Raised Triglycerides,Hypertriglyceridemia,MESH:D006953,Hyperlipoproteinemia Type IV,NA,NA
+Raised Triglycerides,MESH:D015228,Endocrine,High,raisedtg,Raised Triglycerides,Hypertriglyceridemia,MESH:D006954,Hyperlipoproteinemia Type V,NA,NA
+Raised Triglycerides,MESH:D015228,Endocrine,High,raisedtg,Raised Triglycerides,Hypertriglyceridemia,MESH:D015228,Hypertriglyceridemia,Hypertriglyceridemia,http://www.ebi.ac.uk/efo/EFO_0004211
+Raynauds Disease,MESH:D011928,Cardiovascular,High,raynauds,Raynaud's Disease,Raynaud Disease,MESH:D011928,Raynaud Disease,NA,NA
+Respiratory Failure,MESH:D012131,Respiratory,High,resp_fail,Respiratory Failure,Respiratory Insufficiency,MESH:D007040,Hypoventilation,NA,NA
+Respiratory Failure,MESH:D012131,Respiratory,High,resp_fail,Respiratory Failure,Respiratory Insufficiency,MESH:D000142,"Acidosis, Respiratory",NA,NA
+Respiratory Failure,MESH:D012131,Respiratory,High,resp_fail,Respiratory Failure,Respiratory Insufficiency,MESH:D000402,Airway Obstruction,NA,NA
+Respiratory Failure,MESH:D012131,Respiratory,High,resp_fail,Respiratory Failure,Respiratory Insufficiency,MESH:D012133,Respiratory Paralysis,NA,NA
+Respiratory Failure,MESH:D012131,Respiratory,High,resp_fail,Respiratory Failure,Respiratory Insufficiency,MESH:D012131,Respiratory Insufficiency,NA,NA
+Retinal Detachment,MESH:D012163,Eye,High,retinal_detach,Retinal Detachment,Retinal Detachment,MESH:D012163,Retinal Detachment,NA,NA
+Retinal Vascular Occlusion,MESH:D012170,Eye,High,retinal_vasc_occl,Retinal Vascular Occlusions,Retinal Vein Occlusion,MESH:D015356,Retinal Artery Occlusion,NA,NA
+Retinal Vascular Occlusion,MESH:D012170,Eye,High,retinal_vasc_occl,Retinal Vascular Occlusions,Retinal Vein Occlusion,MESH:D012170,Retinal Vein Occlusion,NA,NA
+Retinal Vascular Occlusion,MESH:D015356,Eye,High,retinal_vasc_occl,Retinal Vascular Occlusions,Retinal Artery Occlusion,NA,Retinal Vascular Occlusion,NA,NA
+Rheumatic Fever,MESH:D012213,Infections,High,rh_fever,Rheumatic Fever,Rheumatic Fever,MESH:D012213,Rheumatic Fever,susceptibility to rheumatic fever measurement,http://www.ebi.ac.uk/efo/EFO_0008416
+Rheumatic Valve Disorder,MESH:D012214,Cardiovascular,High,rh_valve,Rheumatic Valve Disease,Rheumatic Heart Disease,MESH:D012214,Rheumatic Heart Disease,rheumatic heart disease,http://www.ebi.ac.uk/efo/EFO_1001161
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D016706,"Still's Disease, Adult-Onset",NA,NA
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D005258,Felty Syndrome,NA,NA
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D001172,"Arthritis, Rheumatoid",rheumatoid arthritis,http://www.ebi.ac.uk/efo/EFO_0000685
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D002205,Caplan Syndrome,NA,NA
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D012218,Rheumatoid Nodule,NA,NA
+Rheumatoid Arthritis,MESH:D001172,Musculoskeletal,High,rha,Rheumatoid Arthritis,"Arthritis, Rheumatoid",MESH:D056653,Rheumatoid Vasculitis,NA,NA
+Right Bundle Branch Block,MESH:D002037,Cardiovascular,High,rbbb,Right Bundle Branch Block,Bundle-Branch Block,MESH:D002037,Bundle-Branch Block,NA,NA
+Scleroderma,MESH:D012595,Musculoskeletal,High,scleroderma,Scleroderma,"Scleroderma, Systemic",MESH:D017675,CREST Syndrome,NA,NA
+Scleroderma,MESH:D012595,Musculoskeletal,High,scleroderma,Scleroderma,"Scleroderma, Systemic",MESH:D045743,"Scleroderma, Diffuse",diffuse scleroderma,http://www.ebi.ac.uk/efo/EFO_0000404
+Scleroderma,MESH:D012595,Musculoskeletal,High,scleroderma,Scleroderma,"Scleroderma, Systemic",MESH:D045745,"Scleroderma, Limited",limited scleroderma,http://www.ebi.ac.uk/efo/EFO_1001017
+Scleroderma,MESH:D012594,Musculoskeletal,High,scleroderma,Scleroderma,"Scleroderma, Localized",MESH:D012594,"Scleroderma, Localized",NA,NA
+Scleroderma,MESH:D012595,Musculoskeletal,High,scleroderma,Scleroderma,"Scleroderma, Systemic",MESH:D012595,"Scleroderma, Systemic",systemic scleroderma,http://www.ebi.ac.uk/efo/EFO_0000717
+Scoliosis,MESH:D012600,Musculoskeletal,High,scoliosis,Scoliosis,Scoliosis,MESH:D012600,Scoliosis,scoliosis,http://www.ebi.ac.uk/efo/EFO_0004273
+Seborrheic Dermatitis,MESH:D012628,Skin,High,seb_derm,Seborrheic Dermatitis,"Dermatitis, Seborrheic",MESH:D012628,"Dermatitis, Seborrheic",seborrheic dermatitis,http://www.ebi.ac.uk/efo/EFO_1000764
+"Secondary Malignancy, Adrenal",MESH:D000310,Cancers,High,malig_sec_adrenal,Secondary Malignancy - Adrenal,Adrenal Gland Neoplasms,MESH:D000306,Adrenal Cortex Neoplasms,NA,NA
+"Secondary Malignancy, Adrenal",MESH:D000310,Cancers,High,malig_sec_adrenal,Secondary Malignancy - Adrenal,Adrenal Gland Neoplasms,MESH:D000310,Adrenal Gland Neoplasms,NA,NA
+"Secondary Malignancy, Bone",MESH:D001859,Cancers,High,malig_sec_bone,Secondary Malignancy - Bone,Bone Neoplasms,MESH:D001859,Bone Neoplasms,NA,NA
+"Secondary Malignancy, Bowel",MESH:D007414,Cancers,High,malig_sec_bowel,Secondary Malignancy - Bowel,Intestinal Neoplasms,MESH:D007414,Intestinal Neoplasms,NA,NA
+"Secondary Malignancy, Brain",MESH:D001932,Cancers,High,malig_sec_brain,Secondary Malignancy - Brain,Brain Neoplasms,MESH:D001932,Brain Neoplasms,NA,NA
+"Secondary Malignancy, Liver",MESH:D008113,Cancers,High,malig_sec_liver,Secondary malignancy - Liver,Liver Neoplasms,MESH:D008113,Liver Neoplasms,NA,NA
+"Secondary Malignancy, Lung",MESH:D008175,Cancers,High,malig_sec_lung,Secondary Malignancy - Lung,Lung Neoplasms,MESH:D008175,Lung Neoplasms,NA,NA
+"Secondary Malignancy, Lymph Nodes",MESH:D008207,Cancers,High,malig_sec_ln,Secondary Malignancy - Lymph Nodes,Lymphatic Metastasis,MESH:D008207,Lymphatic Metastasis,NA,NA
+"Secondary Malignancy, other",MESH:D009362,Cancers,High,malig_sec_other,Secondary Malignancy - Other,Neoplasm Metastasis,MESH:D009360,"Neoplastic Cells, Circulating",NA,NA
+"Secondary Malignancy, other",MESH:D009362,Cancers,High,malig_sec_other,Secondary Malignancy - Other,Neoplasm Metastasis,MESH:D009366,Neoplasm Seeding,NA,NA
+"Secondary Malignancy, other",MESH:D009362,Cancers,High,malig_sec_other,Secondary Malignancy - Other,Neoplasm Metastasis,MESH:D009362,Neoplasm Metastasis,NA,NA
+"Secondary Malignancy, other",MESH:D009362,Cancers,High,malig_sec_other,Secondary Malignancy - Other,Neoplasm Metastasis,MESH:D061206,Neoplasm Micrometastasis,NA,NA
+"Secondary Malignancy, Peritoneum",MESH:D010534,Cancers,High,malig_sec_peritoneum,Secondary Malignancy Peritoneum,Peritoneal Neoplasms,MESH:D010534,Peritoneal Neoplasms,NA,NA
+"Secondary Malignancy, Pleura",MESH:D010997,Cancers,High,malig_sec_pleura,Secondary Malignancy - Pleura,Pleural Neoplasms,MESH:D010997,Pleural Neoplasms,NA,NA
+Secondary Polycythaemia,MESH:D011086,Haematological/ Immuunoligcal,High,sec_polycythaemia,Secondary Polycythaemia,Polycythemia,MESH:D011086,Polycythemia,NA,NA
+Secondary Pulmonary Hypertension,MESH:D006976,Cardiovascular,High,pulm_htn_sec,Secondary Pulmonary Hypertension,"Hypertension, Pulmonary",MESH:D006976,"Hypertension, Pulmonary",NA,NA
+Secondary Thrombocytopaenia,MESH:D013921,Haematological/ Immuunoligcal,High,sec_thrombocytopaenia,Secondary Thrombocytopaenia,Thrombocytopenia,MESH:D013921,Thrombocytopenia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D016469,Fungemia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D058387,Candidemia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D019446,Endotoxemia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D018805,Sepsis,"sepsis, mortality","http://purl.obolibrary.org/obo/HP_0100806, http://www.ebi.ac.uk/efo/EFO_0004352"
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D000071074,Neonatal Sepsis,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D018512,Parasitemia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D006483,Hemorrhagic Septicemia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D014766,Viremia,NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D012772,"Shock, Septic",NA,NA
+Septicaemia,MESH:D018805,Infections,High,id_sepsis,Septicaemia,Sepsis,MESH:D016470,Bacteremia,bacteriemia,http://www.ebi.ac.uk/efo/EFO_0003033
+Sick Sinus Syndrome,MESH:D012804,Cardiovascular,High,sick_sinus,Sick Sinus Syndrome,Sick Sinus Syndrome,MESH:D012804,Sick Sinus Syndrome,NA,NA
+Sjogren Syndrome,MESH:D012859,Musculoskeletal,High,sjogren,Sjogren's Syndrome,Sjogren's Syndrome,MESH:D012859,Sjogren's Syndrome,Sjogren syndrome,http://www.ebi.ac.uk/efo/EFO_0000699
+Spinal Stenosis,MESH:D013130,Musculoskeletal,High,spinal_stenosis,Spinal Stenosis,Spinal Stenosis,MESH:D013130,Spinal Stenosis,NA,NA
+Spondylolisthesis,MESH:D013168,Musculoskeletal,High,spondylolisthesis,Spondylolisthesis,Spondylolisthesis,MESH:D013168,Spondylolisthesis,NA,NA
+Spondylosis,MESH:D055009,Musculoskeletal,High,spondylosis,Spondylosis,Spondylosis,MESH:D055009,Spondylosis,NA,NA
+Stable Angina,MESH:D060050,Cardiovascular,High,sa,Stable Angina,"Angina, Stable",MESH:D060050,"Angina, Stable",NA,NA
+"Stroke, not otherwise specified",MESH:D020521,Cardiovascular,High,stroke_nos,Stroke - Not otherwise specified (NOS) ,Stroke,MESH:D020521,Stroke,stroke,http://www.ebi.ac.uk/efo/EFO_0000712
+"Stroke, not otherwise specified",MESH:D020521,Cardiovascular,High,stroke_nos,Stroke - Not otherwise specified (NOS) ,Stroke,MESH:D020521,Stroke,small vessel stroke,http://www.ebi.ac.uk/efo/EFO_1001504
+"Stroke, not otherwise specified",MESH:D020521,Cardiovascular,High,stroke_nos,Stroke - Not otherwise specified (NOS) ,Stroke,MESH:D059409,"Stroke, Lacunar",NA,NA
+"Stroke, not otherwise specified",MESH:D020521,Cardiovascular,High,stroke_nos,Stroke - Not otherwise specified (NOS) ,Stroke,MESH:D020521,Stroke,large artery stroke,http://www.ebi.ac.uk/efo/EFO_0005524
+Subarachnoid Haemorrhage,MESH:D013345,Cardiovascular,High,subarach,Subarachnoid Haemorrhage,Subarachnoid Hemorrhage,MESH:D013345,Subarachnoid Hemorrhage,NA,NA
+Subdural haematoma,MESH:D006408,Cardiovascular,High,subdural_haem,Subdural haematoma,"Hematoma, Subdural",MESH:D020199,"Hematoma, Subdural, Acute",NA,NA
+Subdural haematoma,MESH:D006408,Cardiovascular,High,subdural_haem,Subdural haematoma,"Hematoma, Subdural",MESH:D006408,"Hematoma, Subdural",NA,NA
+Supraventricular Tachycardia,MESH:D013617,Cardiovascular,High,svt,Supraventricular Tachycardia,"Tachycardia, Supraventricular",MESH:D013613,"Tachycardia, Ectopic Junctional",NA,NA
+Supraventricular Tachycardia,MESH:D013617,Cardiovascular,High,svt,Supraventricular Tachycardia,"Tachycardia, Supraventricular",MESH:D013616,"Tachycardia, Sinus",NA,NA
+Supraventricular Tachycardia,MESH:D013617,Cardiovascular,High,svt,Supraventricular Tachycardia,"Tachycardia, Supraventricular",MESH:D013617,"Tachycardia, Supraventricular",NA,NA
+Supraventricular Tachycardia,MESH:D013617,Cardiovascular,High,svt,Supraventricular Tachycardia,"Tachycardia, Supraventricular",MESH:D013612,"Tachycardia, Ectopic Atrial",NA,NA
+Syndrome of Inappropriate AntiDiuretic Hormone,MESH:D007177,Endocrine,High,SIADH,Syndrome of Inappropriate AntiDiuretic Hormone,Inappropriate ADH Syndrome,MESH:D007177,Inappropriate ADH Syndrome,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D013959,Thyroid Diseases,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D016606,Thyroid Nodule,thyroid nodule,http://www.ebi.ac.uk/efo/EFO_1001436
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D013966,Thyroiditis,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D006042,Goiter,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D006044,"Goiter, Nodular",NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D006111,Graves Disease,Graves disease,http://www.ebi.ac.uk/efo/EFO_0004237
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D049970,Graves Ophthalmopathy,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D050031,Hashimoto Disease,Hashimoto's thyroiditis,http://www.ebi.ac.uk/efo/EFO_0003779
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D006980,Hyperthyroidism,Hyperthyroidism,http://www.ebi.ac.uk/efo/EFO_0009189
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D007037,Hypothyroidism,hypothyroidism,http://www.ebi.ac.uk/efo/EFO_0004705
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D009230,Myxedema,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D013958,Thyroid Crisis,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D013971,Thyrotoxicosis,NA,NA
+Thyroid Disease,MESH:D013959,Endocrine,High,thyroid,Thyroid Disease,Thyroid Diseases,MESH:D013967,"Thyroiditis, Autoimmune",NA,NA
+Tinnitus,MESH:D014012,Ear,High,tinnitus,Tinnitus,Tinnitus,MESH:D014012,Tinnitus,NA,NA
+Transient Ischaemic Attack,MESH:D002546,Cardiovascular,High,tia,Transient Ischaemic Attack,"Ischemic Attack, Transient",MESH:D002546,"Ischemic Attack, Transient",NA,NA
+Trifascicular Block,UMLS:C0155707,Cardiovascular,High,trifasc_block,Trifascicular Block,Trifascicular Block,UMLS:C0155707,Trifascicular Block,NA,NA
+Trigeminal Neuralgia,MESH:D014277,Neurological,High,trigem_neur,Trigeminal Neuralgia,Trigeminal Neuralgia,MESH:D014277,Trigeminal Neuralgia,NA,NA
+Tubulo-interstitial Nephropathy,MESH:D009395,Genitourinary,High,tin,Tubulo-interstitial nephritis,"Nephritis, Interstitial",MESH:D009395,"Nephritis, Interstitial",NA,NA
+Type 2 Diabetes Mellitus,MESH:D003924,Endocrine,High,t2dm,Type 2 Diabetes Mellitus,"Diabetes Mellitus, Type 2",MESH:D003924,"Diabetes Mellitus, Type 2",type II diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0001360
+Unstable Angina,MESH:D000789,Cardiovascular,High,ua,Unstable Angina,"Angina, Unstable",MESH:D000789,"Angina, Unstable",NA,NA
+Unstable Angina,MESH:D000789,Cardiovascular,High,ua,Unstable Angina,"Angina, Unstable",MESH:D000788,"Angina Pectoris, Variant",NA,NA
+Urinary Incontinence,MESH:D014549,Genitourinary,High,urine_incont,Urinary Incontinence,Urinary Incontinence,MESH:D014550,"Urinary Incontinence, Stress",NA,NA
+Urinary Incontinence,MESH:D014549,Genitourinary,High,urine_incont,Urinary Incontinence,Urinary Incontinence,MESH:D053202,"Urinary Incontinence, Urge",urgency urinary incontinence,http://www.ebi.ac.uk/efo/EFO_0006865
+Urinary Incontinence,MESH:D014549,Genitourinary,High,urine_incont,Urinary Incontinence,Urinary Incontinence,MESH:D014549,Urinary Incontinence,NA,NA
+Urinary Tract Infection,MESH:D014552,Infections,High,id_uti,Urinary Tract Infection,Urinary Tract Infections,MESH:D014552,Urinary Tract Infections,susceptibility to urinary tract infection measurement,http://www.ebi.ac.uk/efo/EFO_0008413
+Uterovaginal Prolapse,MESH:D056887,Genitourinary,High,prolapse,Uterovaginal Prolapse,Pelvic Organ Prolapse,MESH:D052858,Cystocele,NA,NA
+Uterovaginal Prolapse,MESH:D056887,Genitourinary,High,prolapse,Uterovaginal Prolapse,Pelvic Organ Prolapse,MESH:D056887,Pelvic Organ Prolapse,pelvic organ prolapse,http://www.ebi.ac.uk/efo/EFO_0004710
+Uterovaginal Prolapse,MESH:D056887,Genitourinary,High,prolapse,Uterovaginal Prolapse,Pelvic Organ Prolapse,MESH:D014596,Uterine Prolapse,NA,NA
+Venous thromboembolism,MESH:D054556,Cardiovascular,High,vte_expe,Venous thrombolism (Excl PE),Venous Thromboembolism,MESH:D054556,Venous Thromboembolism,venous thromboembolism,http://www.ebi.ac.uk/efo/EFO_0004286
+Ventricular Tachycardia,MESH:D017180,Cardiovascular,High,vt,Ventricular Tachycardia,"Tachycardia, Ventricular",MESH:D017180,"Tachycardia, Ventricular",NA,NA
+Viral Infection,MESH:D014777,Infections,High,id_viral,Viral Infection,Virus Diseases,MESH:D014766,Viremia,NA,NA
+Viral Infection,MESH:D014777,Infections,High,id_viral,Viral Infection,Virus Diseases,MESH:D014777,Virus Diseases,response to virus,http://purl.obolibrary.org/obo/GO_0009615
+Vitamin B12 deficiency anaemia,UMLS:C2004521,Haematological/ Immuunoligcal,High,b12def,Vitamin B12 deficiency anaemia,Vitamin B12 deficiency anemia,UMLS:C2004521,Vitamin B12 deficiency anemia,NA,NA
+Volvulus,MESH:D045822,Digestive,High,volvulus,Volvulus,Intestinal Volvulus,MESH:D045822,Intestinal Volvulus,NA,NA
