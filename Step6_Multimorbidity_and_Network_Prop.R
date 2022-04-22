@@ -6,7 +6,7 @@ library("tidyverse")
 library(dplyr)
 library(plyr)
 library(permute)
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+setwd("/Aging_hallmark_ARD_repository-main/")
 # With thanks to the Prof. Andreas Beyer and Ronja Johnen for providing several of the functions for network analyses, which were adapted for this project, and the BioNetSmooth package 
 # The shuffles were run in R 3.3.0 - set.seed()
 
