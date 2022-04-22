@@ -31,16 +31,16 @@ The code should be run in the following order:
 (iv) Step1c_ARD_GWAS_mappings.R, R version 3.6.3
 - Mapping ARDs to genes using the GWAS catalog. 
 
-(v) Step_1d_the_human_aging_corpus_PMID.py, Python 3.7.0
+(v) Step1d_the_human_aging_corpus_PMID.py, Python 3.7.0
 - Identifying the PubMed IDs representing the human aging corpus.
 
 (vi) Step1e_processing_PubMed_baseline.R, R version 3.6.3
 - Converting the PubMed baseline from XML format to CSV format. 
 
-(vii) Step_2a_the_human_aging_corpus_data_and_metadata.py, Python 3.7.0
+(vii) Step2a_the_human_aging_corpus_data_and_metadata.py, Python 3.7.0
 - Extracting titles, abstracts, and metadata for the human aging corpus. 
 
-(viii) Step_2b_EDA_pubmed_baseline.py, Python 3.7.0
+(viii) Step2b_EDA_pubmed_baseline.py, Python 3.7.0
 - Exploratory data analysis of the PubMed baseline. 
 
 (ix) Step3_ochiai_and_manual_curation.py, Python 3.7.0
