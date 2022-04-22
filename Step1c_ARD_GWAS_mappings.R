@@ -2,7 +2,7 @@ library(tidyr)
 library(stringr)
 library(eply)
 library(plyr)
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository")
+setwd("/Aging_hallmark_ARD_repository-main")
 
 #################################### ARD to Gene Search terms ############################################# 
 # Import and process GWAS ancestry frame
