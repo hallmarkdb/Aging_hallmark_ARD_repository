@@ -5,7 +5,7 @@ library(plyr)
 
 #################################### ARD to Gene Search terms ############################################# 
 # Processing the GWAS Ancestry Frame and keeping those with specific broad ancestral categories
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository")
+setwd("/Aging_hallmark_ARD_repository-main")
 GWAS_Ancestry <- read.csv("Genetic_data/Ancestry.tsv", sep="\t", header=TRUE)
 GWAS_Ancestry_Europe <- GWAS_Ancestry[grepl("Euro", GWAS_Ancestry$BROAD.ANCESTRAL.CATEGORY),]
 GWAS_Ancestry_Europe1 <- data.frame(GWAS_Ancestry_Europe$INITIAL.SAMPLE.DESCRIPTION,GWAS_Ancestry_Europe$REPLICATION.SAMPLE.DESCRIPTION, GWAS_Ancestry_Europe$STUDY.ACCESSION, GWAS_Ancestry_Europe$BROAD.ANCESTRAL.CATEGORY)
