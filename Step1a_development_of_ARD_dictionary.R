@@ -5,7 +5,7 @@ library(plyr)
 
 ################################### Development of ARD dictionaries ###################################
 # Importing data
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository")
+setwd("/Aging_hallmark_ARD_repository-main")
 MeSH_Terms <- unique(read.csv("data/ARD_dictionary/MeSH_frames_original.csv", sep =","))
 MeSH_Terms <- unique(data.frame(MeSH_Terms$DiseaseName_ARD_Paper, MeSH_Terms$MESH_Term, MeSH_Terms$MESH_ID))
 colnames(MeSH_Terms) <- c("DiseaseName_ARD_Paper", "MESH_Term", "DiseaseID")
