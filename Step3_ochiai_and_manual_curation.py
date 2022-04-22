@@ -4,7 +4,7 @@ import os
 from math import sqrt
 import time
 # Here, we use the previously generated ARD dictionary and an aging hallmark dictionary
-os.chdir("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+os.chdir("/Aging_hallmark_ARD_repository-main/")
 
 ################################### Extracting sentences mentioning and co-mentioning aging hallmarks and ARDs the association scores ###################################
 df2 = pd.read_csv("data/human_aging_corpus/abstracts.csv")
