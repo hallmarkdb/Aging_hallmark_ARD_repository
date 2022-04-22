@@ -11,7 +11,7 @@ print(string.punctuation)
 string.punctuation = '!"#$%&\'*+/:;<=>?@[\\]^_`{}~'
 stopword = stopwords.words('english')
 tokenizer = RegexpTokenizer(r'\w+')
-os.chdir("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+os.chdir("/Aging_hallmark_ARD_repository-main/")
 
 ################################### Deriving the titles, abstracts and metadata for the human aging corpus ###################################
 
