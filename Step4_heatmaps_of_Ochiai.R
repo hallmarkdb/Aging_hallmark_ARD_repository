@@ -7,7 +7,7 @@ library(RColorBrewer)
 library(pheatmap)
 library(grid)
 library(dplyr)
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+setwd("/Aging_hallmark_ARD_repository-main/")
 
 #################################### Heatmaps of Ochiai ############################################# 
 process_frame <- function(dataframe_new, cut_off, data_AH) {
