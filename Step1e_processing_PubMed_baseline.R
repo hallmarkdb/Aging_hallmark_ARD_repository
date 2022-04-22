@@ -2,7 +2,7 @@
 # We created a folder named "baseline" for download of the 2019 PubMed baseline in XML format from "https://www.nlm.nih.gov/databases/download/pubmed_medline.html"
 # We created a folder called "baseline_csv" file to store the csv file output
 library(XML)
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+setwd("/Aging_hallmark_ARD_repository-main/")
 
 extract_xml <- function(theFile){
   # This converts the PubMed baseline XML files into .csv files
