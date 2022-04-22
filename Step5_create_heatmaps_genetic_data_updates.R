@@ -10,7 +10,7 @@ library("ggpubr")
 library(RColorBrewer)
 library(GO.db)
 library(circlize)
-setwd("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+setwd("/Aging_hallmark_ARD_repository-main/")
 # With thanks to Jan Grossbach from the Beyer lab for his advice on these analyses
 
 #################################### Heatmaps of Genetic data and Circos Plots ############################################# 
