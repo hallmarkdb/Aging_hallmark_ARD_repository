@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-os.chdir("/Code_Thesis_HCF/Aging_hallmark_ARD_repository/")
+os.chdir("/Aging_hallmark_ARD_repository-main/")
 
 ################################### EDA PubMed baseline ###################################
 
