@@ -1,0 +1,185 @@
+﻿X,name_node,Name
+Abdominal_Aortic_Aneurysm,aaa,AAA
+Abdominal_Hernia,hernia_abdo,Abdominal Hernia
+Actinic_keratosis,act_keratosis,Actinic Keratosis
+Acute_Kidney_Injury,aki,AKI
+Agranulocytosis,agranulocytosis,Agranulocytosis
+Anaemia_other,oth_anaemia,Anaemia
+Anorectal_Prolapse,anorectal_prolapse,Anorectal Prolapse
+Anterior_Uveitis,ant_uveitis,Anterior Uveitis
+Aplastic_Anaemia,aplastic,Aplastic Anaemia
+Asbestosis,asbestosis,Asbestosis
+Aspiration_Pneumonitis,asp_pneumo,Aspiration Pneumonitis
+Atrial_Fibrillation,af,AF
+Atrioventricular_Block_third_degree,av_block_3,AV Block (3rd degree)
+Autoimmune_liver_disease,autoimm_liver,Autoimmune Liver Dz 
+Autonomic_Neuropathy,autonomic_neuro,Autonomic Neuropathy
+Bacterial_Infection,id_bacterial,Bacterial ID
+Barretts_Oesophagus,barretts,Barrett's
+Bells_Palsy,bells,Bell's Palsy
+Benign_Prostatic_Hyperplasia,bph,BPH
+Blindness,blind,Blindness
+Bronchiectasis,bronchiectasis,Bronchiectasis
+Cardiomyopathy_other,cardiomyo_oth,Cardiomyopathy
+Carpal_Tunnel_Syndrome,carpal_tunnel,Carpal Tunnel
+Cataract,cataract,Cataract
+Cholangitis,cholangitis,Cholangitis
+Cholecystitis,cholecystitis,Cholecystitis
+Cholelithiasis,cholelithiasis,Cholelithiasis
+Chronic_Kidney_Disease,ckd,CKD
+Chronic_Obstructive_Pulmonary_Disease,copd,COPD
+Cirrhosis,cirrhosis,Cirrhosis
+Collapsed_Vertebra,collapsed_vert,Collapsed_Vertebra
+Coronary_Heart_Disease,chd_nos,CHD
+Deafness,deaf,Deafness
+Delirium,delirium,Delirium
+Dementia,dementia,Dementia
+Dermatitis,dermatitis,Dermatitis
+Diabetes_Mellitus_other_or_not_specified,dm_oth,DM
+Diabetic_Eye_Disease,dm_eye,Diabetic Eye Dz
+Diabetic_Neuropathy,dm_neuro,Diabetic Neuropathy
+Diaphragmatic_Hernia,hernia_diaphragm,Diaphragmatic Hernia
+Dilated_cardiomyopathy,dcm,DCM
+Diverticular_Disease,diverticuli,Diverticular Disease
+End_Stage_Renal_Disease,esrd,ESRD
+Epilepsy,epilepsy,Epilepsy
+Essential_Tremor,essential_tremor,Essential Tremor
+Fatty_Liver,fatty_liver,Fatty Liver
+Fibromatosis,fibromatosis,Fibromatosis
+Fracture_Hip,frac_hip,Hip Fracture
+Fracture_Wrist,frac_wrist,Wrist Fracture
+Fungal_Infection,id_mycoses,Fungal Infection
+Gastritis,gastritis,Gastritis
+Gastro_oesophageal_Reflux_Disease,gord,GORD
+Giant_Cell_Arteritis,gca,Giant Cell Arteritis
+Glaucoma,glaucoma,Glaucoma
+Glomerulonephritis,gn,Glomerulonephritis
+Gout,gout,Gout
+Heart_Failure,hf,CHF
+Hydrocele,hydrocele,Hydrocele
+Hyperparathyroidism,pth,Hyperparathyroidism
+Hypersplenism,hypersplenism,Hypersplenism
+Hypertension,htn,Hypertension
+Hypertrophic_cardiomyopathy,hocm,HCM
+Immunodeficiency,immunodef,Immunodeficiency
+Infection_Bone,id_bone,Bone ID
+Infection_Digestive_System,id_digestive,Gastroenteritis
+Infection_Eye,id_eye,Eye Infection
+Infection_Heart,id_heart,Heart Infection
+Infection_Lower_Respiratory_Tract,id_lrti,LRTI
+Infection_Male_Genitourinary,id_male_gu,Genitourinary Infection (Male)
+Infection_Other_nervous_system,id_oth_nerv_sys,Nervous System Infection
+Infection_Skin,id_skin,Skin Infection
+Intracerebral_Haemorrhage,intracereb_haem,Intracerebral Haemorrhage
+Iron_Deficiency_Anaemia,ida,Iron Def. Anaemia
+Ischaemic_Stroke,isch_stroke,Ischaemic Stroke
+Keratitis,keratitis,Keratitis
+Left_Bundle_Branch_Block,lbbb,LBBB
+Leukaemia,malig_leukaemia,Leukaemia
+Lichen_Planus,lichen_planus,Lichen Planus
+Liver_Failure,liver_fail,Liver Failure
+Low_high_density_lipoprotein_cholesterol,lowhdl,Low HDL
+Macular_Degeneration,macula_degen,AMD
+Menieres_Disease,meniere,Menieres Disease
+Monoclonal_Gammopathy_of_Unknown_Significance,malig_mgus,MGUS
+Motor_Neurone_Disease,mnd,MND
+Myasthenia_Gravis,myasthenia,Myasthenia Gravis
+Myelodysplastic_Syndrome,malig_mds,Myelodysplasia
+Myocardial_Infarction,mi,MI
+Neuropathic_Bladder,neuro_bladder,Neuropathic Bladder
+Non_Hodgkins_Lymphoma,malig_nhl,NHL
+Non_rheumatic_Aortic_valve_disorder,nonrh_aortic,Non rheumatic Aortic valve disorder
+Non_rheumatic_Mitral_valve_disorder,nonrh_mitral,Non rheumatic Mitral valve disorder
+Obstructive_and_reflux_uropathy,obstr_reflux,Obstructive and reflux uropathy
+Oesophageal_Varices,varices,Oesophageal Varices
+Osteoarthritis,oa,Osteoarthritis
+Osteoporosis,osteoporosis,Osteoporosis
+Other_Haemolytic_Anaemia,oth_haem_anaemia,Haemolytic Anaemia
+Pancreatitis,pancreatitis,Pancreatitis
+Parasitic_Infection,id_parasitic,Parasitic Infection
+Parkinsons_Disease,parkinsons,Parkinson's
+Peptic_Ulcer,ulcer_peptic,Peptic Ulcer
+Pericardial_Effusion,pericard_eff,Pericardial Effusion
+Peripheral_Arterial_Disease,pad,PAD
+Peripheral_Neuropathy,periph_neuro,Peripheral Neuropathy
+Peritonitis,peritonitis,Peritonitis
+Plasma_Cell_Malignancy,malig_plasmacell,Plasma Cell Cancer
+Pleural_Effusion,pleural_eff,Pleural Effusion
+Pneumothorax,pneumothorax,Pneumothorax
+Polycythaemia_vera,malig_pcv,Polycythaemia Vera
+Polymyalgia_Rheumatica,pmr,Polymyalgia Rheumatica
+Portal_Hypertension,portal_htn,Portal Hypertension
+Primary_Malignancy_Biliary,malig_pri_biliary,Biliary Cancer
+Primary_Malignancy_Bladder,malig_pri_bladder,Bladder Cancer
+Primary_Malignancy_Bone,malig_pri_bone,Bone Cancer
+Primary_Malignancy_Bowel,malig_pri_bowel,Bowel Cancer
+Primary_Malignancy_Brain,malig_pri_brain,Brain Cancer
+Primary_Malignancy_Breast,malig_pri_breast,Breast Cancer
+Primary_Malignancy_Kidney,malig_pri_kidney,Kidney Cancer
+Primary_Malignancy_Liver,malig_pri_liver,Liver Cancer
+Primary_Malignancy_Lung,malig_pri_lung,Lung Cancer
+Primary_Malignancy_Melanoma,malig_pri_melanoma,Melanoma
+Primary_Malignancy_Mesothelioma,malig_pri_mesothelioma,Mesothelioma
+Primary_Malignancy_Oesophageal,malig_pri_oesoph,Oesophageal Cancer
+Primary_Malignancy_Oropharyngeal,malig_pri_oroph,Oropharyngeal Cancer
+Primary_Malignancy_Ovary,malig_pri_ovarian,Ovarian Cancer
+Primary_Malignancy_Pancreas,malig_pri_pancr,Pancreatic Cancer
+Primary_Malignancy_Prostate,malig_pri_prost,Prostate Cancer
+Primary_Malignancy_Skin,malig_pri_skin,Skin Cancer
+Primary_Malignancy_Stomach,malig_pri_stomach,Stomach Cancer
+Primary_Malignancy_Thyroid,malig_pri_thyroid,Thyroid Cancer
+Primary_Malignancy_Uterus,malig_pri_uterine,Uterine Cancer
+Primary_Pulmonary_Hypertension,pulm_htn_pri,Primary Pulmonary Hypertension
+Primary_thrombocytopaenia,pri_thrombocytopaenia,Pri. Thrombocytopaenia
+Ptosis,ptosis,Ptosis
+Pulmonary_Collapse,pulm_collapse,Pulmonary_Collapse
+Pulmonary_Embolism,pe,Pulmonary_Embolism
+Pulmonary_Fibrosis,pulm_fibrosis,Pulmonary Fibrosis
+Raised_low_density_lipoprotein_cholesterol,raisedldl,Raised LDL
+Raised_Total_Cholesterol,raisedtc,High Cholesterol
+Raised_Triglycerides,raisedtg,High Triglycerides
+Raynauds_Disease,raynauds,Raynauds Disease
+Respiratory_Failure,resp_fail,Respiratory_Failure
+Retinal_Detachment,retinal_detach,Retinal Detachment
+Retinal_Vascular_Occlusion,retinal_vasc_occl,Retinal Vascular Occ.
+Rheumatic_Fever,rh_fever,Rheumatic Fever
+Rheumatic_Valve_Disorder,rh_valve,Rheumatic Valve Disorder
+Rheumatoid_Arthritis,rha,RA
+Right_Bundle_Branch_Block,rbbb,RBBB
+Scleroderma,scleroderma,Scleroderma
+Scoliosis,scoliosis,Scoliosis
+Seborrheic_Dermatitis,seb_derm,Seborrheic Dermatitis
+Secondary_Malignancy_Adrenal,malig_sec_adrenal,Adrenal Mets.
+Secondary_Malignancy_Bone,malig_sec_bone,Bone Mets.
+Secondary_Malignancy_Brain,malig_sec_brain,Brain Mets.
+Secondary_Malignancy_Liver,malig_sec_liver,Liver Mets.
+Secondary_Malignancy_Lung,malig_sec_lung,Lung Mets.
+Secondary_Malignancy_Lymph_Nodes,malig_sec_ln,Lymph Node Mets.
+Secondary_Malignancy_Peritoneum,malig_sec_peritoneum,Peritoneal Metastases
+Secondary_Malignancy_Pleura,malig_sec_pleura,Pleural Metastases
+Septicaemia,id_sepsis,Sepsis
+Sick_Sinus_Syndrome,sick_sinus,Sick Sinus Syndrome
+Sjogren_Syndrome,sjogren,Sjogren's
+Spinal_Stenosis,spinal_stenosis,Spinal Stenosis
+Spondylolisthesis,spondylolisthesis,Spondylolisthesis
+Spondylosis,spondylosis,Spondylosis
+Stable_Angina,sa,Stable Angina
+Stroke_not_otherwise_specified,stroke_nos,Stroke
+Subarachnoid_Haemorrhage,subarach,SAH
+Subdural_haematoma,subdural_haem,Subdural haematoma
+Supraventricular_Tachycardia,svt,SVT
+Syndrome_of_Inappropriate_AntiDiuretic_Hormone,SIADH,SIADH
+Thyroid_Disease,thyroid,Thyroid Disease
+Tinnitus,tinnitus,Tinnitus
+Transient_Ischaemic_Attack,tia,TIA
+Trigeminal_Neuralgia,trigem_neur,Trigeminal Neuralgia
+Tubulo_interstitial_Nephropathy,tin,Tubulo-interstitial Nephropathy
+Type_2_Diabetes_Mellitus,t2dm,T2DM
+Unstable_Angina,ua,Unstable Angina
+Urinary_Incontinence,urine_incont,Urinary Incontinence
+Urinary_Tract_Infection,id_uti,UTI
+Uterovaginal_Prolapse,prolapse,Uterovaginal_Prolapse
+Venous_thromboembolism,vte_expe,VTE
+Ventricular_Tachycardia,vt,VT
+Viral_Infection,id_viral,Viral Infection
+Volvulus,volvulus,Volvulus

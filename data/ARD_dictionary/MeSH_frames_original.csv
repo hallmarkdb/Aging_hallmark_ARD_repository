@@ -1,0 +1,217 @@
+MESH_ID,MESH_Term,DiseaseName_ARD_Paper,Category,Likelihood.disease.is.ageing.related,Name_node,Phenotyping_Algorithms
+MESH:D017544,"Aortic Aneurysm, Abdominal",Abdominal Aortic Aneurysm,Cardiovascular,High,aaa,Abdominal Aortic Aneurysm
+MESH:D046449,"Hernia, Abdominal",Abdominal Hernia,Digestive,High,hernia_abdo,Abdominal Hernia
+MESH:D055623,"Keratosis, Actinic",Actinic keratosis,Skin,High,act_keratosis,Actinic keratosis
+MESH:D058186,Acute Kidney Injury,Acute Kidney Injury,Genitourinary,High,aki,Acute Kidney Injury
+MESH:D000380,Agranulocytosis,Agranulocytosis,Haematological/ Immuunoligcal,High,agranulocytosis,Agranulocytosis
+MESH:D000740,Anemia,"Anaemia, other",Haematological/ Immuunoligcal,High,oth_anaemia,Anaemia - other
+MESH:D016888,Angiodysplasia,Angiodysplasia of colon,Digestive,High,angio_colon,Angiodysplasia of colon
+MESH:D012005,Rectal Prolapse,Anorectal Prolapse,Digestive,High,anorectal_prolapse,Anorectal Prolapse
+MESH:D014606,"Uveitis, Anterior",Anterior Uveitis,Eye,High,ant_uveitis,Anterior Uveitis
+MESH:D000741,"Anemia, Aplastic",Aplastic Anaemia,Haematological/ Immuunoligcal,High,aplastic,Aplastic Anaemias
+MESH:D001195,Asbestosis,Asbestosis,Respiratory,High,asbestosis,Asbestosis
+MESH:D011015,"Pneumonia, Aspiration",Aspiration Pneumonitis,Respiratory,High,asp_pneumo,Aspiration pneumonitis
+MESH:D001281,Atrial Fibrillation,Atrial Fibrillation,Cardiovascular,High,af,Atrial Fibrillation and flutter
+MESH:D001282,Atrial Flutter,Atrial Fibrillation,Cardiovascular,High,af,Atrial Fibrillation and flutter
+MESH:D054537,Atrioventricular Block,"Atrioventricular Block, first degree",Cardiovascular,High,av_block_1,"Atrioventricular block, first degree"
+MESH:D054537,Atrioventricular Block,"Atrioventricular Block, second degree",Cardiovascular,High,av_block_2,"Atrioventricular Block, second degree"
+MESH:D054537,Atrioventricular Block,"Atrioventricular Block, third degree",Cardiovascular,High,av_block_3,"Atrioventricular block, third degree"
+MESH:D019693,"Hepatitis, Autoimmune",Autoimmune liver disease,Digestive,High,autoimm_liver,Autoimmune liver disease
+UMLS:C0259749,Autonomic Neuropathy,Autonomic Neuropathy,Neurological,High,autonomic_neuro,Autonomic Neuropathy
+MESH:D001424,Bacterial Infections,Bacterial Infection,Infections,High,id_bacterial,Bacterial infections
+MESH:D001471,Barrett Esophagus,Barrett's Oesophagus,Digestive,High,barretts,Barrett's Oesophagus
+MESH:D020330,Bell Palsy,Bell's Palsy,Neurological,High,bells,Bell's palsy
+MESH:D001932,Brain Neoplasms,"Benign Neoplasm, Brain",Benign Neoplasm,High,benign_brain,Benign neoplasm - Brain
+MESH:D003110,Colonic Neoplasms,"Benign Neoplasm, Colon",Benign Neoplasm,High,benign_colon,Benign Neoplasm - Colon
+MESH:D013274,Stomach Neoplasms,"Benign Neoplasm, Stomach",Benign Neoplasm,High,benign_stomach,Benign Neoplasm - Stomach
+MESH:D011470,Prostatic Hyperplasia,Benign Prostatic Hyperplasia,Genitourinary,High,bph,Benign Prostatic Hyperplasia
+UMLS:C0264914,Bifascicular block,Bifascicular Block,Cardiovascular,High,bifasc_block,Bifascicular block
+MESH:D001766,Blindness,Blindness,Eye,High,blind,Blindness
+MESH:D001987,Bronchiectasis,Bronchiectasis,Respiratory,High,bronchiectasis,Bronchiectasis
+MESH:D009202,Cardiomyopathies,"Cardiomyopathy, other",Cardiovascular,High,cardiomyo_oth,Cardiomyopathy - other
+MESH:D002349,Carpal Tunnel Syndrome,Carpal Tunnel Syndrome,Musculoskeletal,High,carpal_tunnel,Carpal tunnel syndrome
+MESH:D002386,Cataract,Cataract,Eye,High,cataract,Cataract
+MESH:D002761,Cholangitis,Cholangitis,Digestive,High,cholangitis,Cholangitis
+MESH:D002764,Cholecystitis,Cholecystitis,Digestive,High,cholecystitis,Cholecystitis
+MESH:D002769,Cholelithiasis,Cholelithiasis,Digestive,High,cholelithiasis,Cholelithiasis
+UMLS:C0221763,Chronic Cystitis,Chronic Cystitis,Genitourinary,High,chr_cystitis,Chronic Cystitis
+MESH:D051436,"Renal Insufficiency, Chronic",Chronic Kidney Disease,Genitourinary,High,ckd,Chronic Kidney Disease
+MESH:D029424,"Pulmonary Disease, Chronic Obstructive",Chronic Obstructive Pulmonary Disease,Respiratory,High,copd,Chronic Obstructive Pulmonary Disease
+MESH:D008103,Liver Cirrhosis,Cirrhosis,Digestive,High,cirrhosis,Cirrhosis
+UMLS:C0410550,Collapse of vertebra,Collapsed Vertebra,Musculoskeletal,High,collapsed_vert,Collapsed vertebra
+MESH:D003324,Coronary Artery Disease,Coronary Heart Disease,Cardiovascular,High,chd_nos,Coronary heart disease not otherwise specified
+MESH:D003638,Deafness,Deafness,Ear,High,deaf,Deafness
+MESH:D003693,Delirium,Delirium,Psychiatric,High,delirium,Delirium
+MESH:D003704,Dementia,Dementia,Psychiatric,High,dementia,Dementia
+MESH:D003872,Dermatitis,Dermatitis,Skin,High,dermatitis,Dermatitis (atopic/contact/other/unspecified)
+MESH:D003920,Diabetes Mellitus,"Diabetes Mellitus, other or not specified",Endocrine,High,dm_oth,"Diabetes Mellitus, other or not specified"
+MESH:D003930,Diabetic Retinopathy,Diabetic Eye Disease,Eye,High,dm_eye,Diabetic Eye Disease
+MESH:D003929,Diabetic Neuropathies,Diabetic Neuropathy,Neurological,High,dm_neuro,Diabetic Neuropathy
+MESH:D006548,"Hernia, Diaphragmatic",Diaphragmatic Hernia,Digestive,High,hernia_diaphragm,Diaphragmatic hernia
+MESH:D002311,"Cardiomyopathy, Dilated",Dilated cardiomyopathy,Cardiovascular,High,dcm,Dilated cardiomyopathy
+MESH:D000076385,Diverticular Diseases,Diverticular Disease,Digestive,High,diverticuli,Diverticular Disease
+MESH:D007676,"Kidney Failure, Chronic",End Stage Renal Disease,Genitourinary,High,esrd,End stage renal disease
+MESH:D004827,Epilepsy,Epilepsy,Neurological,High,epilepsy,Epilepsy
+MESH:D020329,Essential Tremor,Essential Tremor,Neurological,High,essential_tremor,Essential Tremor
+MESH:D005234,Fatty Liver,Fatty Liver,Digestive,High,fatty_liver,Fatty Liver
+MESH:D005350,Fibroma,Fibromatosis,Musculoskeletal,High,fibromatosis,Fibromatoses
+UMLS:C0472730,Folate deficiency anaemia due to malabsorption,Folate Deficiency Anaemia,Haematological/ Immuunoligcal,High,foldef,Folate deficiency anaemia
+MESH:D006620,Hip Fractures,"Fracture, Hip",Musculoskeletal,High,frac_hip,Fracture - hip
+MESH:D011885,Radius Fractures,"Fracture, Wrist",Musculoskeletal,High,frac_wrist,Fracture - wrist
+MESH:D014458,Ulna Fractures,"Fracture, Wrist",Musculoskeletal,High,frac_wrist,Fracture - wrist
+MESH:D009181,Mycoses,Fungal Infection,Infections,High,id_mycoses,Fungal Infection
+MESH:D005756,Gastritis,Gastritis,Digestive,High,gastritis,Gastritis
+MESH:D005764,Gastroesophageal Reflux,Gastro-oesophageal Reflux Disease,Digestive,High,gord,Gastro-oesophageal reflux disease
+MESH:D013700,Giant Cell Arteritis,Giant Cell Arteritis,Musculoskeletal,High,gca,Giant Cell arteritis
+MESH:D005901,Glaucoma,Glaucoma,Eye,High,glaucoma,Glaucoma
+MESH:D005921,Glomerulonephritis,Glomerulonephritis,Genitourinary,High,gn,Glomerulonephritis
+MESH:D006073,Gout,Gout,Musculoskeletal,High,gout,Gout
+MESH:D006333,Heart Failure,Heart Failure,Cardiovascular,High,hf,Heart failure
+MESH:D006848,Testicular Hydrocele,Hydrocele,Genitourinary,High,hydrocele,Hydrocoele
+MESH:D006961,Hyperparathyroidism,Hyperparathyroidism,Endocrine,High,pth,Hyperparathyroidism
+MESH:D006971,Hypersplenism,Hypersplenism,Haematological/ Immuunoligcal,High,hypersplenism,Hypersplenism
+MESH:D006973,Hypertension,Hypertension,Cardiovascular,High,htn,Hypertension
+MESH:D002312,"Cardiomyopathy, Hypertrophic",Hypertrophic cardiomyopathy,Cardiovascular,High,hocm,Hypertrophic Cardiomyopathy
+UMLS:C0272404,Hyposplenism,Hyposplenism,Haematological/ Immuunoligcal,High,hyposplenism,Hyposplenism
+UMLS:C0021051,Immunologic Deficiency Syndromes,Immunodeficiency,Haematological/ Immuunoligcal,High,immunodef,Immunodeficiencies
+MESH:D001850,"Bone Diseases, Infectious","Infection, Bone",Infections,High,id_bone,Infection - Bone
+MESH:D005759,Gastroenteritis,"Infection, Digestive System",Infections,High,id_digestive,Infection - Digestive system
+MESH:D015817,Eye Infections,"Infection, Eye",Infections,High,id_eye,Infection - Eye
+MESH:D004697,"Endocarditis, Bacterial","Infection, Heart",Infections,High,id_heart,Infection - Heart
+MESH:D011014,Pneumonia,"Infection, Lower Respiratory Tract",Infections,High,id_lrti,Infection - Lower Respiratory Tract
+MESH:D014552,Urinary Tract Infections,"Infection, Male Genitourinary",Infections,High,id_male_gu,Infection - Male Genitourinary
+MESH:D002494,Central Nervous System Infections,"Infection, Other nervous system",Infections,High,id_oth_nerv_sys,"Infection, Other nervous system"
+MESH:D007239,Infection,"Infection, Other organisms",Infections,High,id_oth_organisms,"Infection, Other organisms"
+MESH:D007239,Infection,"Infection, Other organs",Infections,High,id_oth_organs,Infection - Other Organs
+MESH:D012874,"Skin Diseases, Infectious","Infection, Skin",Infections,High,id_skin,Infection - Skin
+MESH:D002543,Cerebral Hemorrhage,Intracerebral Haemorrhage,Cardiovascular,High,intracereb_haem,Intracerebral Haemorrhage
+MESH:D018798,"Anemia, Iron-Deficiency",Iron Deficiency Anaemia,Haematological/ Immuunoligcal,High,ida,Iron Deficiency Anaemia
+MESH:D020520,Brain Infarction,Ischaemic Stroke,Cardiovascular,High,isch_stroke,Ischaemic Stroke
+MESH:D007634,Keratitis,Keratitis,Eye,High,keratitis,Keratitis
+MESH:D002037,Bundle-Branch Block,Left Bundle Branch Block,Cardiovascular,High,lbbb,Left Bundle Branch Block
+MESH:D007938,Leukemia,Leukaemia,Cancers,High,malig_leukaemia,Leukaemia
+MESH:D008010,Lichen Planus,Lichen Planus,Skin,High,lichen_planus,Lichen Planus
+MESH:D017093,Liver Failure,Liver Failure,Digestive,High,liver_fail,Hepatic failure
+UMLS:C0151691,Decreased HDL cholesterol concentration,Low high density lipoprotein-cholesterol,Endocrine,High,lowhdl,Low HDL-C
+MESH:D008268,Macular Degeneration,Macular Degeneration,Eye,High,macula_degen,Macular Degeneration
+MESH:D008575,Meniere Disease,Meniere's Disease,Ear,High,meniere,Menieres Disease
+MESH:D008998,Monoclonal Gammopathy of Undetermined Significance,Monoclonal Gammopathy of Unknown Significance,Cancers,High,malig_mgus,Monoclonal Gammopathy of Unknown Significance
+MESH:D016472,Motor Neuron Disease,Motor Neurone Disease,Neurological,High,mnd,Motor Neurone Disease
+UMLS:C0348584,Multiple Valve Disease,Multiple valve disorder,Cardiovascular,High,mult_valve,Multiple valve disease
+MESH:D009157,Myasthenia Gravis,Myasthenia Gravis,Neurological,High,myasthenia,Myasthenia Gravis
+MESH:D009190,Myelodysplastic Syndromes,Myelodysplastic Syndrome,Cancers,High,malig_mds,Myelodysplastic Syndrome
+MESH:D009203,Myocardial Infarction,Myocardial Infarction,Cardiovascular,High,mi,Myocardial Infarction
+MESH:D001750,"Urinary Bladder, Neurogenic",Neuropathic Bladder,Genitourinary,High,neuro_bladder,Neuropathic Bladder
+MESH:D008228,"Lymphoma, Non-Hodgkin",Non Hodgkins Lymphoma,Cancers,High,malig_nhl,Non-Hodgkin Lymphoma
+MESH:D001022,Aortic Valve Insufficiency,Non-rheumatic Aortic valve disorder,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders
+MESH:D001023,Aortic Valve Prolapse,Non-rheumatic Aortic valve disorder,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders
+MESH:D001024,Aortic Valve Stenosis,Non-rheumatic Aortic valve disorder,Cardiovascular,High,nonrh_aortic,Nonrheumatic aortic valve disorders
+MESH:D008944,Mitral Valve Insufficiency,Non-rheumatic Mitral valve disorder,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders
+MESH:D008945,Mitral Valve Prolapse,Non-rheumatic Mitral valve disorder,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders
+MESH:D008946,Mitral Valve Stenosis,Non-rheumatic Mitral valve disorder,Cardiovascular,High,nonrh_mitral,Nonrheumatic mitral valve disorders
+MESH:D014517,Ureteral Obstruction,Obstructive and reflux uropathy,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy
+MESH:D014718,Vesico-Ureteral Reflux,Obstructive and reflux uropathy,Genitourinary,High,obstr_reflux,Obstructive and reflux uropathy
+UMLS:C0151970,Ulcer of Esophagus,Oesophageal Ulcer,Digestive,High,oesoph_ulc,Oesophageal Ulcer
+MESH:D004932,Esophageal and Gastric Varices,Oesophageal Varices,Digestive,High,varices,Oesophageal varices
+MESH:D010003,Osteoarthritis,Osteoarthritis,Musculoskeletal,High,oa,Osteoarthritis
+MESH:D010024,Osteoporosis,Osteoporosis,Musculoskeletal,High,osteoporosis,Osteoporosis
+MESH:D000743,"Anemia, Hemolytic",Other Haemolytic Anaemia,Haematological/ Immuunoligcal,High,oth_haem_anaemia,Other haemolytic anaemias
+MESH:D010195,Pancreatitis,Pancreatitis,Digestive,High,pancreatitis,Pancreatitis
+MESH:D010272,Parasitic Diseases,Parasitic Infection,Infections,High,id_parasitic,Parasitic infections
+MESH:D010300,Parkinson Disease,Parkinson's Disease,Neurological,High,parkinsons,Parkinson's disease
+MESH:D010437,Peptic Ulcer,Peptic Ulcer,Digestive,High,ulcer_peptic,Peptic Ulcer
+MESH:D010490,Pericardial Effusion,Pericardial Effusion,Cardiovascular,High,pericard_eff,Pericardial effusion
+MESH:D058729,Peripheral Arterial Disease,Peripheral Arterial Disease,Cardiovascular,High,pad,Peripheral arterial disease
+UMLS:C0031117,Peripheral Neuropathy,Peripheral Neuropathy,Neurological,High,periph_neuro,Peripheral Neuropathy
+MESH:D010538,Peritonitis,Peritonitis,Digestive,High,peritonitis,Peritonitis
+MESH:D054219,"Neoplasms, Plasma Cell",Plasma Cell Malignancy,Cancers,High,malig_plasmacell,Plasma Cell Malignancy
+MESH:D010996,Pleural Effusion,Pleural Effusion,Respiratory,High,pleural_eff,Pleural effusion
+UMLS:C0340030,Pleural Plaque,Pleural Plaque,Respiratory,High,pleural_plaque,Pleural plaque
+MESH:D011030,Pneumothorax,Pneumothorax,Respiratory,High,pneumothorax,Pneumothorax
+MESH:D011087,Polycythemia Vera,Polycythaemia vera,Cancers,High,malig_pcv,Polycythaemia Vera
+MESH:D011111,Polymyalgia Rheumatica,Polymyalgia Rheumatica,Musculoskeletal,High,pmr,Polymyalgia Rheumatica
+MESH:D006975,"Hypertension, Portal",Portal Hypertension,Digestive,High,portal_htn,Portal Hypertension
+MESH:D001661,Biliary Tract Neoplasms,"Primary Malignancy, Biliary",Cancers,High,malig_pri_biliary,Primary Malignancy - Biliary
+MESH:D001749,Urinary Bladder Neoplasms,"Primary Malignancy, Bladder",Cancers,High,malig_pri_bladder,Primary Malignancy - Bladder
+MESH:D001859,Bone Neoplasms,"Primary Malignancy, Bone",Cancers,High,malig_pri_bone,Primary Malignancy - Bone
+MESH:D007414,Intestinal Neoplasms,"Primary Malignancy, Bowel",Cancers,High,malig_pri_bowel,Primary Malignancy - Bowel
+MESH:D001932,Brain Neoplasms,"Primary Malignancy, Brain",Cancers,High,malig_pri_brain,Primary Malignancy - Brain
+MESH:D001943,Breast Neoplasms,"Primary Malignancy, Breast",Cancers,High,malig_pri_breast,Primary Malignancy - Breast
+MESH:D007680,Kidney Neoplasms,"Primary Malignancy, Kidney",Cancers,High,malig_pri_kidney,Primary Malignancy - Kidney
+MESH:D008113,Liver Neoplasms,"Primary Malignancy, Liver",Cancers,High,malig_pri_liver,Primary Malignancy - Liver
+MESH:D008175,Lung Neoplasms,"Primary Malignancy, Lung",Cancers,High,malig_pri_lung,Primary Malignancy - Lung
+MESH:D008545,Melanoma,"Primary Malignancy, Melanoma",Cancers,High,malig_pri_melanoma,Primary Malignancy - Melanoma
+MESH:D008654,Mesothelioma,"Primary Malignancy, Mesothelioma",Cancers,High,malig_pri_mesothelioma,Primary Malignancy - Mesothelioma
+MESH:D004938,Esophageal Neoplasms,"Primary Malignancy, Oesophageal ",Cancers,High,malig_pri_oesoph,Primary Malignancy - Oesophageal
+MESH:D009959,Oropharyngeal Neoplasms,"Primary Malignancy, Oropharyngeal",Cancers,High,malig_pri_oroph,Primary Malignancy - Oropharyngeal
+MESH:D009369,Neoplasms,"Primary Malignancy, other",Cancers,High,malig_pri_other,Primary Malignancy - Other
+MESH:D010051,Ovarian Neoplasms,"Primary Malignancy, Ovary",Cancers,High,malig_pri_ovarian,Primary Malignancy - Ovary
+MESH:D010190,Pancreatic Neoplasms,"Primary Malignancy, Pancreas",Cancers,High,malig_pri_pancr,Primary Malignancy - Pancreas
+MESH:D011471,Prostatic Neoplasms,"Primary Malignancy, Prostate",Cancers,High,malig_pri_prost,Primary Malignancy Prostate
+MESH:D012878,Skin Neoplasms,"Primary Malignancy, Skin",Cancers,High,malig_pri_skin,Primary Malignancy - Skin
+MESH:D013274,Stomach Neoplasms,"Primary Malignancy, Stomach",Cancers,High,malig_pri_stomach,Primary Malignancy - Stomach
+MESH:D013964,Thyroid Neoplasms,"Primary Malignancy, Thyroid",Cancers,High,malig_pri_thyroid,Primary Malignancy - Thyroid
+MESH:D014594,Uterine Neoplasms,"Primary Malignancy, Uterus",Cancers,High,malig_pri_uterine,Primary Malignancy - Uterus
+MESH:D006976,"Hypertension, Pulmonary",Primary Pulmonary Hypertension,Cardiovascular,High,pulm_htn_pri,Primary pulmonary hypertension
+MESH:D013921,Thrombocytopenia,Primary thrombocytopaenia,Haematological/ Immuunoligcal,High,pri_thrombocytopaenia,Primary thrombocytopaenia
+MESH:D001763,Blepharoptosis,Ptosis,Eye,High,ptosis,Ptosis
+MESH:D001261,Pulmonary Atelectasis,Pulmonary Collapse,Respiratory,High,pulm_collapse,Pulmonary Collapse
+MESH:D011655,Pulmonary Embolism,Pulmonary Embolism,Cardiovascular,High,pe,Pulmonary Embolism
+MESH:D011658,Pulmonary Fibrosis,Pulmonary Fibrosis,Respiratory,High,pulm_fibrosis,Pulmonary Fibrosis
+UMLS:C0549399,Low density lipoprotein increased,Raised low density lipoprotein-cholesterol,Endocrine,High,raisedldl,Raised LDL-C
+MESH:D006937,Hypercholesterolemia,Raised Total Cholesterol,Endocrine,High,raisedtc,Raised Total Cholesterol
+MESH:D015228,Hypertriglyceridemia,Raised Triglycerides,Endocrine,High,raisedtg,Raised Triglycerides
+MESH:D011928,Raynaud Disease,Raynauds Disease,Cardiovascular,High,raynauds,Raynaud's Disease
+MESH:D012131,Respiratory Insufficiency,Respiratory Failure,Respiratory,High,resp_fail,Respiratory Failure
+MESH:D012163,Retinal Detachment,Retinal Detachment,Eye,High,retinal_detach,Retinal Detachment
+MESH:D015356,Retinal Artery Occlusion,Retinal Vascular Occlusion,Eye,High,retinal_vasc_occl,Retinal Vascular Occlusions
+MESH:D012170,Retinal Vein Occlusion,Retinal Vascular Occlusion,Eye,High,retinal_vasc_occl,Retinal Vascular Occlusions
+MESH:D012213,Rheumatic Fever,Rheumatic Fever,Infections,High,rh_fever,Rheumatic Fever
+MESH:D012214,Rheumatic Heart Disease,Rheumatic Valve Disorder,Cardiovascular,High,rh_valve,Rheumatic Valve Disease
+MESH:D001172,"Arthritis, Rheumatoid",Rheumatoid Arthritis,Musculoskeletal,High,rha,Rheumatoid Arthritis
+MESH:D002037,Bundle-Branch Block,Right Bundle Branch Block,Cardiovascular,High,rbbb,Right Bundle Branch Block
+MESH:D012594,"Scleroderma, Localized",Scleroderma,Musculoskeletal,High,scleroderma,Scleroderma
+MESH:D012595,"Scleroderma, Systemic",Scleroderma,Musculoskeletal,High,scleroderma,Scleroderma
+MESH:D012600,Scoliosis,Scoliosis,Musculoskeletal,High,scoliosis,Scoliosis
+MESH:D012628,"Dermatitis, Seborrheic",Seborrheic Dermatitis,Skin,High,seb_derm,Seborrheic Dermatitis
+MESH:D000310,Adrenal Gland Neoplasms,"Secondary Malignancy, Adrenal",Cancers,High,malig_sec_adrenal,Secondary Malignancy - Adrenal
+MESH:D001859,Bone Neoplasms,"Secondary Malignancy, Bone",Cancers,High,malig_sec_bone,Secondary Malignancy - Bone
+MESH:D007414,Intestinal Neoplasms,"Secondary Malignancy, Bowel",Cancers,High,malig_sec_bowel,Secondary Malignancy - Bowel
+MESH:D001932,Brain Neoplasms,"Secondary Malignancy, Brain",Cancers,High,malig_sec_brain,Secondary Malignancy - Brain
+MESH:D008113,Liver Neoplasms,"Secondary Malignancy, Liver",Cancers,High,malig_sec_liver,Secondary malignancy - Liver
+MESH:D008175,Lung Neoplasms,"Secondary Malignancy, Lung",Cancers,High,malig_sec_lung,Secondary Malignancy - Lung
+MESH:D008207,Lymphatic Metastasis,"Secondary Malignancy, Lymph Nodes",Cancers,High,malig_sec_ln,Secondary Malignancy - Lymph Nodes
+MESH:D009362,Neoplasm Metastasis,"Secondary Malignancy, other",Cancers,High,malig_sec_other,Secondary Malignancy - Other
+MESH:D010534,Peritoneal Neoplasms,"Secondary Malignancy, Peritoneum",Cancers,High,malig_sec_peritoneum,Secondary Malignancy Peritoneum
+MESH:D010997,Pleural Neoplasms,"Secondary Malignancy, Pleura",Cancers,High,malig_sec_pleura,Secondary Malignancy - Pleura
+MESH:D011086,Polycythemia,Secondary Polycythaemia,Haematological/ Immuunoligcal,High,sec_polycythaemia,Secondary Polycythaemia
+MESH:D006976,"Hypertension, Pulmonary",Secondary Pulmonary Hypertension,Cardiovascular,High,pulm_htn_sec,Secondary Pulmonary Hypertension
+MESH:D013921,Thrombocytopenia,Secondary Thrombocytopaenia,Haematological/ Immuunoligcal,High,sec_thrombocytopaenia,Secondary Thrombocytopaenia
+MESH:D018805,Sepsis,Septicaemia,Infections,High,id_sepsis,Septicaemia
+MESH:D012804,Sick Sinus Syndrome,Sick Sinus Syndrome,Cardiovascular,High,sick_sinus,Sick Sinus Syndrome
+MESH:D012859,Sjogren's Syndrome,Sjogren Syndrome,Musculoskeletal,High,sjogren,Sjogren's Syndrome
+MESH:D013130,Spinal Stenosis,Spinal Stenosis,Musculoskeletal,High,spinal_stenosis,Spinal Stenosis
+MESH:D013168,Spondylolisthesis,Spondylolisthesis,Musculoskeletal,High,spondylolisthesis,Spondylolisthesis
+MESH:D055009,Spondylosis,Spondylosis,Musculoskeletal,High,spondylosis,Spondylosis
+MESH:D060050,"Angina, Stable",Stable Angina,Cardiovascular,High,sa,Stable Angina
+MESH:D020521,Stroke,"Stroke, not otherwise specified",Cardiovascular,High,stroke_nos,Stroke - Not otherwise specified (NOS)¬†
+MESH:D013345,Subarachnoid Hemorrhage,Subarachnoid Haemorrhage,Cardiovascular,High,subarach,Subarachnoid Haemorrhage
+MESH:D006408,"Hematoma, Subdural",Subdural haematoma,Cardiovascular,High,subdural_haem,Subdural haematoma
+MESH:D013617,"Tachycardia, Supraventricular",Supraventricular Tachycardia,Cardiovascular,High,svt,Supraventricular Tachycardia
+MESH:D007177,Inappropriate ADH Syndrome,Syndrome of Inappropriate AntiDiuretic Hormone,Endocrine,High,SIADH,Syndrome of Inappropriate AntiDiuretic Hormone
+MESH:D013959,Thyroid Diseases,Thyroid Disease,Endocrine,High,thyroid,Thyroid Disease
+MESH:D014012,Tinnitus,Tinnitus,Ear,High,tinnitus,Tinnitus
+MESH:D002546,"Ischemic Attack, Transient",Transient Ischaemic Attack,Cardiovascular,High,tia,Transient Ischaemic Attack
+UMLS:C0155707,Trifascicular Block,Trifascicular Block,Cardiovascular,High,trifasc_block,Trifascicular Block
+MESH:D014277,Trigeminal Neuralgia,Trigeminal Neuralgia,Neurological,High,trigem_neur,Trigeminal Neuralgia
+MESH:D009395,"Nephritis, Interstitial",Tubulo-interstitial Nephropathy,Genitourinary,High,tin,Tubulo-interstitial nephritis
+MESH:D003924,"Diabetes Mellitus, Type 2",Type 2 Diabetes Mellitus,Endocrine,High,t2dm,Type 2 Diabetes Mellitus
+MESH:D000789,"Angina, Unstable",Unstable Angina,Cardiovascular,High,ua,Unstable Angina
+MESH:D014549,Urinary Incontinence,Urinary Incontinence,Genitourinary,High,urine_incont,Urinary Incontinence
+MESH:D014552,Urinary Tract Infections,Urinary Tract Infection,Infections,High,id_uti,Urinary Tract Infection
+MESH:D056887,Pelvic Organ Prolapse,Uterovaginal Prolapse,Genitourinary,High,prolapse,Uterovaginal Prolapse
+MESH:D054556,Venous Thromboembolism,Venous thromboembolism,Cardiovascular,High,vte_expe,Venous thrombolism (Excl PE)
+MESH:D017180,"Tachycardia, Ventricular",Ventricular Tachycardia,Cardiovascular,High,vt,Ventricular Tachycardia
+MESH:D014777,Virus Diseases,Viral Infection,Infections,High,id_viral,Viral Infection
+UMLS:C2004521,Vitamin B12 deficiency anemia,Vitamin B12 deficiency anaemia,Haematological/ Immuunoligcal,High,b12def,Vitamin B12 deficiency anaemia
+MESH:D045822,Intestinal Volvulus,Volvulus,Digestive,High,volvulus,Volvulus
