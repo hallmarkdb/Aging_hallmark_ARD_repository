@@ -3,13 +3,11 @@ import re
 import unidecode
 import string
 import os
-from nltk.corpus import stopwords
 from nltk import sent_tokenize
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 from nltk.tokenize import RegexpTokenizer
 print(string.punctuation)
 string.punctuation = '!"#$%&\'*+/:;<=>?@[\\]^_`{}~'
-stopword = stopwords.words('english')
 tokenizer = RegexpTokenizer(r'\w+')
 os.chdir("/Aging_hallmark_ARD_repository-main/")
 
