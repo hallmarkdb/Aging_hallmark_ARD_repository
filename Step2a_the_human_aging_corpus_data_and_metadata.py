@@ -35,7 +35,7 @@ def abstract_split_clean(pubmed_abstracts_frame, a, b):
     pubmed_new = pubmed_abstracts_frame.dropna(subset=['abstract'])
     title_Abstract = pubmed_new.articletitle + " " + pubmed_new.abstract
     new_sentence_dataframe = pd.DataFrame({'pmid_all': pubmed_new['pmid'], 'unedited_sent': title_Abstract,
-                                           'mesh_all': pubmed_new['meshHeadings'], 'ptype_all': pubmed_new['ptype']})
+                                           'mesh_all': pubmed_new['meshHeadings']})
     return(new_sentence_dataframe)
 
 
