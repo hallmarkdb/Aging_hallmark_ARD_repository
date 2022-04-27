@@ -9,6 +9,8 @@ from nltk.tokenize import RegexpTokenizer
 print(string.punctuation)
 string.punctuation = '!"#$%&\'*+/:;<=>?@[\\]^_`{}~'
 tokenizer = RegexpTokenizer(r'\w+')
+import nltk
+nltk.download('punkt')
 os.chdir("/Aging_hallmark_ARD_repository-main/")
 
 ################################### Deriving the titles, abstracts and metadata for the human aging corpus ###################################
